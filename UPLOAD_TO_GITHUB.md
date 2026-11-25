@@ -1,7 +1,8 @@
-# FE Civil Prep - Lite edition
+# Upload the updated website to GitHub Pages
 
-The images have been optimized to reduce the download size without removing question or solution cards. Most black-and-white source text was converted to 4-level grayscale PNG; colored diagrams remain WebP in color. The 1,492 question positions, 1,492 solutions, and separated figure images are preserved.
+1. Extract the outer ZIP file. There are no nested ZIP files and no PDFs.
+2. In your GitHub repository, choose Add file > Upload files, and select all extracted contents, including `index.html` and `visual_01.js` through `visual_30.js`.
+3. Commit the updates to the Pages branch. To avoid remnants, remove old PDFs in the repository if present.
+4. Refresh the live website. Your progress stays in the same browser because the existing storage key is preserved.
 
-**To publish:** Unzip once. Upload **all the extracted ordinary files** to the root of your GitHub repository using Add file > Upload files; keep `index.html` at the root and commit. Do not upload the outer ZIP itself. No additional files or nested ZIPs are needed. Do a hard reload after GitHub Pages finishes publishing.
-
-The original publisher answer keys and some transcriptions have not been independently checked for all questions. See QUALITY_REPORT.md. Public posting requires permission covering redistribution of copyrighted book content.
+All 1,492 indexed positions now have A–D publisher-key grading, including the 613 newly enabled items. See `GRADING_METHOD_AND_CAVEATS.md` for accuracy cautions and special questions.

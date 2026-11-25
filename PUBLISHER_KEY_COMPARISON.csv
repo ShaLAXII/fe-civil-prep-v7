@@ -1,1493 +1,1493 @@
-id,source,source_key_detected,website_key,source_key_matches_website,answer_heading_present,source_key_detection_automated,manual_numeric_verification
-1,Learnova,A,A,True,True,True,True
-2,Learnova,C,C,True,True,True,True
-3,Learnova,B,B,True,True,True,False
-4,Learnova,A,A,True,True,True,True
-5,Learnova,B,B,True,True,True,True
-6,Learnova,A,A,True,True,True,True
-7,Learnova,B,B,True,True,True,True
-8,Learnova,D,D,True,True,True,True
-9,Learnova,B,B,True,True,True,True
-10,Learnova,A,A,True,True,True,True
-11,Learnova,C,C,True,True,True,True
-12,Learnova,B,B,True,True,True,True
-13,Learnova,C,C,True,True,True,True
-14,Learnova,C,C,True,True,True,True
-15,Learnova,A,A,True,True,True,True
-16,Learnova,A,A,True,True,True,True
-17,Learnova,B,B,True,True,True,True
-18,Learnova,B,A,False,True,True,True
-19,Learnova,C,C,True,True,True,True
-20,Learnova,A,A,True,True,True,True
-21,Learnova,A,A,True,True,True,True
-22,Learnova,A,A,True,True,True,True
-23,Learnova,A,A,True,True,True,True
-24,Learnova,D,D,True,True,True,True
-25,Learnova,B,B,True,True,True,True
-26,Learnova,C,C,True,True,True,True
-27,Learnova,C,C,True,True,True,True
-28,Learnova,C,C,True,True,True,True
-29,Learnova,A,A,True,True,True,True
-30,Learnova,A,A,True,True,True,True
-31,Learnova,D,D,True,True,True,True
-32,Learnova,A,A,True,True,True,True
-33,Learnova,D,D,True,True,True,True
-34,Learnova,C,C,True,True,True,True
-35,Learnova,D,D,True,True,True,True
-36,Learnova,A,A,True,True,True,True
-37,Learnova,A,A,True,True,True,True
-38,Learnova,A,B,False,True,True,True
-39,Learnova,A,A,True,True,True,True
-40,Learnova,A,A,True,True,True,True
-41,Learnova,A,A,True,True,True,True
-42,Learnova,B,B,True,True,True,True
-43,Learnova,A,A,True,True,True,True
-44,Learnova,D,D,True,True,True,True
-45,Learnova,A,A,True,True,True,True
-46,Learnova,A,A,True,True,True,True
-47,Learnova,B,B,True,True,True,True
-48,Learnova,A,A,True,True,True,True
-49,Learnova,A,A,True,True,True,True
-50,Learnova,A,A,True,True,True,True
-51,Learnova,B,B,True,True,True,True
-52,Learnova,B,A,False,True,True,True
-53,Learnova,A,A,True,True,True,True
-54,Learnova,B,B,True,True,True,True
-55,Learnova,D,D,True,True,True,True
-56,Learnova,A,A,True,True,True,True
-57,Learnova,B,B,True,True,True,True
-58,Learnova,C,C,True,True,True,True
-59,Learnova,A,A,True,True,True,True
-60,Learnova,C,C,True,True,True,False
-61,Learnova,A,A,True,True,True,False
-62,Learnova,B,B,True,True,True,False
-63,Learnova,A,A,True,True,True,False
-64,Learnova,A,A,True,True,True,False
-65,Learnova,B,B,True,True,True,False
-66,Learnova,B,B,True,True,True,False
-67,Learnova,B,B,True,True,True,False
-68,Learnova,A,A,True,True,True,False
-69,Learnova,B,B,True,True,True,False
-70,Learnova,B,B,True,True,True,False
-71,Learnova,D,D,True,True,True,False
-72,Learnova,A,A,True,True,True,False
-73,Learnova,B,B,True,True,True,False
-74,Learnova,D,D,True,True,True,False
-75,Learnova,B,B,True,True,True,False
-76,Learnova,B,B,True,True,True,False
-77,Learnova,A,A,True,True,True,False
-78,Learnova,C,C,True,True,True,False
-79,Learnova,A,A,True,True,True,False
-80,Learnova,B,B,True,True,True,False
-81,Learnova,B,B,True,True,True,True
-82,Learnova,B,B,True,True,True,True
-83,Learnova,B,B,True,True,True,True
-84,Learnova,B,B,True,False,True,True
-85,Learnova,B,B,True,False,True,True
-86,Learnova,B,B,True,False,True,True
-87,Learnova,B,B,True,False,True,True
-88,Learnova,B,B,True,False,True,True
-89,Learnova,B,B,True,False,True,True
-90,Learnova,B,B,True,False,True,False
-91,Learnova,B,B,True,False,True,True
-92,Learnova,B,B,True,False,True,True
-93,Learnova,B,B,True,True,True,False
-94,Learnova,B,B,True,True,True,False
-95,Learnova,B,B,True,True,True,False
-96,Learnova,B,B,True,False,True,False
-97,Learnova,C,C,True,False,True,False
-98,Learnova,B,B,True,False,True,False
-99,Learnova,C,C,True,False,True,False
-100,Learnova,C,C,True,False,True,False
-101,Learnova,B,B,True,False,True,False
-102,Learnova,B,B,True,False,True,False
-103,Learnova,C,C,True,False,True,False
-104,Learnova,B,B,True,False,True,False
-105,Learnova,B,B,True,False,True,False
-106,Learnova,B,B,True,False,True,False
-107,Learnova,D,D,True,False,True,False
-108,Learnova,C,C,True,False,True,False
-109,Learnova,B,B,True,False,True,False
-110,Learnova,B,B,True,False,True,False
-111,Learnova,C,C,True,False,True,False
-112,Learnova,C,C,True,False,True,False
-113,Learnova,B,B,True,False,True,False
-114,Learnova,B,B,True,False,True,False
-115,Learnova,B,B,True,False,True,False
-116,Learnova,B,B,True,False,True,False
-117,Learnova,B,B,True,False,True,False
-118,Learnova,C,C,True,False,True,False
-119,Learnova,B,B,True,False,True,False
-120,Learnova,A,A,True,False,True,False
-121,Learnova,B,B,True,False,True,False
-122,Learnova,B,B,True,False,True,False
-123,Learnova,C,C,True,False,True,False
-124,Learnova,C,C,True,False,True,False
-125,Learnova,B,B,True,False,True,False
-126,Learnova,B,B,True,False,True,False
-127,Learnova,B,B,True,False,True,False
-128,Learnova,C,C,True,False,True,False
-129,Learnova,A,A,True,False,True,False
-130,Learnova,A,A,True,False,True,False
-131,Learnova,B,B,True,True,True,True
-132,Learnova,B,B,True,True,True,True
-133,Learnova,A,A,True,True,True,True
-134,Learnova,C,C,True,True,True,True
-135,Learnova,B,B,True,True,True,True
-136,Learnova,A,A,True,True,True,True
-137,Learnova,D,D,True,True,True,True
-138,Learnova,C,C,True,True,True,True
-139,Learnova,B,B,True,True,True,True
-140,Learnova,A,A,True,True,True,False
-141,Learnova,B,B,True,True,True,True
-142,Learnova,B,B,True,True,True,True
-143,Learnova,A,A,True,True,True,True
-144,Learnova,A,A,True,True,True,True
-145,Learnova,C,C,True,True,True,False
-146,Learnova,B,B,True,True,True,False
-147,Learnova,B,B,True,True,True,False
-148,Learnova,C,C,True,True,True,False
-149,Learnova,B,B,True,True,True,False
-150,Learnova,D,D,True,True,True,False
-151,Learnova,C,C,True,True,True,False
-152,Learnova,B,B,True,True,True,False
-153,Learnova,B,B,True,True,True,False
-154,Learnova,D,D,True,True,True,False
-155,Learnova,B,B,True,True,True,False
-156,Learnova,,B,,False,True,False
-157,Learnova,B,B,True,True,True,False
-158,Learnova,A,A,True,True,True,False
-159,Learnova,A,A,True,True,True,False
-160,Learnova,A,A,True,True,True,False
-161,Learnova,C,C,True,True,True,False
-162,Learnova,D,D,True,True,True,False
-163,Learnova,C,C,True,True,True,False
-164,Learnova,C,C,True,True,True,False
-165,Learnova,D,D,True,True,True,False
-166,Learnova,A,A,True,True,True,False
-167,Learnova,C,C,True,True,True,False
-168,Learnova,C,C,True,True,True,False
-169,Learnova,A,A,True,True,True,False
-170,Learnova,D,D,True,True,True,False
-171,Learnova,C,C,True,True,True,False
-172,Learnova,B,B,True,True,True,False
-173,Learnova,C,C,True,True,True,False
-174,Learnova,D,D,True,True,True,False
-175,Learnova,B,B,True,True,True,False
-176,Learnova,A,A,True,True,True,False
-177,Learnova,A,A,True,True,True,False
-178,Learnova,B,B,True,True,True,False
-179,Learnova,C,C,True,True,True,False
-180,Learnova,A,A,True,True,True,False
-181,Learnova,B,B,True,True,True,False
-182,Learnova,D,D,True,True,True,False
-183,Learnova,B,B,True,True,True,False
-184,Learnova,D,D,True,True,True,False
-185,Learnova,C,C,True,True,True,False
-186,Learnova,B,B,True,True,True,False
-187,Learnova,A,A,True,True,True,False
-188,Learnova,C,C,True,True,True,False
-189,Learnova,A,A,True,True,True,True
-190,Learnova,B,B,True,True,True,True
-191,Learnova,A,A,True,True,True,True
-192,Learnova,D,D,True,True,True,True
-193,Learnova,B,B,True,True,True,False
-194,Learnova,B,B,True,True,True,False
-195,Learnova,C,C,True,True,True,False
-196,Learnova,D,D,True,True,True,False
-197,Learnova,D,D,True,True,True,False
-198,Learnova,A,A,True,True,True,False
-199,Learnova,B,B,True,True,True,False
-200,Learnova,C,C,True,True,True,False
-201,Learnova,A,A,True,True,True,False
-202,Learnova,D,D,True,True,True,False
-203,Learnova,D,D,True,True,True,False
-204,Learnova,C,C,True,True,True,False
-205,Learnova,A,A,True,True,True,False
-206,Learnova,A,A,True,True,True,False
-207,Learnova,D,D,True,True,True,False
-208,Learnova,C,C,True,True,True,False
-209,Learnova,D,D,True,True,True,False
-210,Learnova,D,D,True,True,True,False
-211,Learnova,A,A,True,True,True,False
-212,Learnova,B,B,True,True,True,False
-213,Learnova,A,A,True,True,True,False
-214,Learnova,C,C,True,True,True,False
-215,Learnova,B,B,True,True,True,False
-216,Learnova,B,B,True,True,True,False
-217,Learnova,C,C,True,True,True,False
-218,Learnova,,,,True,True,False
-219,Learnova,,B,,True,True,False
-220,Learnova,A,A,True,True,True,False
-221,Learnova,D,D,True,True,True,False
-222,Learnova,D,D,True,True,True,False
-223,Learnova,D,D,True,True,True,False
-224,Learnova,C,C,True,True,True,False
-225,Learnova,B,B,True,True,True,False
-226,Learnova,A,A,True,True,True,False
-227,Learnova,A,A,True,True,True,False
-228,Learnova,C,C,True,True,True,False
-229,Learnova,A,A,True,True,True,False
-230,Learnova,B,B,True,True,True,False
-231,Learnova,C,C,True,True,True,False
-232,Learnova,B,B,True,True,True,False
-233,Learnova,A,A,True,True,True,False
-234,Learnova,C,C,True,True,True,False
-235,Learnova,A,A,True,True,True,False
-236,Learnova,D,D,True,True,True,False
-237,Learnova,C,C,True,True,True,False
-238,Learnova,C,C,True,True,True,False
-239,Learnova,C,C,True,True,True,False
-240,Learnova,A,A,True,True,True,False
-241,Learnova,D,D,True,True,True,False
-242,Learnova,B,B,True,True,True,False
-243,Learnova,D,D,True,True,True,False
-244,Learnova,A,A,True,True,True,False
-245,Learnova,B,B,True,True,True,False
-246,Learnova,B,B,True,True,True,False
-247,Learnova,A,A,True,True,True,False
-248,Learnova,D,D,True,True,True,False
-249,Learnova,C,C,True,True,True,False
-250,Learnova,C,C,True,True,True,False
-251,Learnova,B,B,True,True,True,False
-252,Learnova,B,B,True,True,True,False
-253,Learnova,D,D,True,True,True,False
-254,Learnova,D,D,True,True,True,False
-255,Learnova,C,C,True,True,True,False
-256,Learnova,C,C,True,True,True,False
-257,Learnova,A,A,True,True,True,False
-258,Learnova,A,A,True,True,True,False
-259,Learnova,D,D,True,True,True,False
-260,Learnova,C,C,True,True,True,False
-261,Learnova,D,D,True,True,True,False
-262,Learnova,A,A,True,True,True,False
-263,Learnova,A,A,True,True,True,False
-264,Learnova,C,C,True,True,True,False
-265,Learnova,B,B,True,True,True,False
-266,Learnova,A,A,True,True,True,False
-267,Learnova,B,B,True,True,True,False
-268,Learnova,A,A,True,True,True,False
-269,Learnova,C,C,True,True,True,False
-270,Learnova,A,A,True,True,True,False
-271,Learnova,D,D,True,True,True,False
-272,Learnova,B,B,True,True,True,False
-273,Learnova,B,B,True,True,True,False
-274,Learnova,B,B,True,True,True,False
-275,Learnova,A,A,True,True,True,False
-276,Learnova,A,B,False,True,True,True
-277,Learnova,B,A,False,True,True,True
-278,Learnova,B,B,True,True,True,False
-279,Learnova,C,C,True,True,True,False
-280,Learnova,B,B,True,True,True,False
-281,Learnova,B,B,True,True,True,False
-282,Learnova,A,A,True,True,True,False
-283,Learnova,B,B,True,True,True,False
-284,Learnova,A,A,True,True,True,False
-285,Learnova,B,B,True,True,True,False
-286,Learnova,C,C,True,True,True,False
-287,Learnova,A,A,True,True,True,False
-288,Learnova,A,A,True,True,True,False
-289,Learnova,C,C,True,True,True,False
-290,Learnova,D,D,True,True,True,False
-291,Learnova,B,B,True,True,True,False
-292,Learnova,A,A,True,True,True,False
-293,Learnova,C,C,True,True,True,False
-294,Learnova,B,B,True,True,True,False
-295,Learnova,D,D,True,True,True,False
-296,Learnova,C,C,True,True,True,False
-297,Learnova,D,D,True,True,True,False
-298,Learnova,B,B,True,True,True,False
-299,Learnova,D,D,True,True,True,False
-300,Learnova,A,A,True,True,True,False
-301,Learnova,D,D,True,True,True,False
-302,Learnova,C,C,True,True,True,False
-303,Learnova,D,D,True,True,True,False
-304,Learnova,A,A,True,True,True,False
-305,Learnova,B,B,True,True,True,False
-306,Learnova,B,B,True,True,True,False
-307,Learnova,A,A,True,True,True,False
-308,Learnova,A,A,True,True,True,False
-309,Learnova,D,D,True,True,True,False
-310,Learnova,B,B,True,True,True,False
-311,Learnova,C,C,True,True,True,False
-312,Learnova,A,A,True,True,True,False
-313,Learnova,A,A,True,True,True,False
-314,Learnova,C,C,True,True,True,False
-315,Learnova,C,C,True,True,True,False
-316,Learnova,B,B,True,True,True,False
-317,Learnova,A,A,True,True,True,False
-318,Learnova,C,C,True,True,True,False
-319,Learnova,C,C,True,True,True,False
-320,Learnova,A,A,True,True,True,False
-321,Learnova,B,B,True,True,True,False
-322,Learnova,C,C,True,True,True,False
-323,Learnova,B,B,True,True,True,False
-324,Learnova,C,C,True,True,True,False
-325,Learnova,D,D,True,True,True,False
-326,Learnova,D,D,True,True,True,False
-327,Learnova,C,C,True,True,True,False
-328,Learnova,B,B,True,True,True,False
-329,Learnova,C,C,True,True,True,False
-330,Learnova,A,A,True,True,True,False
-331,Learnova,C,C,True,True,True,False
-332,Learnova,A,A,True,True,True,False
-333,Learnova,D,D,True,True,True,False
-334,Learnova,A,A,True,True,True,False
-335,Learnova,C,C,True,True,True,False
-336,Learnova,D,D,True,True,True,False
-337,Learnova,A,A,True,True,True,False
-338,Learnova,A,A,True,True,True,False
-339,Learnova,C,C,True,True,True,False
-340,Learnova,B,B,True,True,True,False
-341,Learnova,A,A,True,True,True,False
-342,Learnova,D,D,True,True,True,False
-343,Learnova,B,B,True,True,True,False
-344,Learnova,C,C,True,True,True,False
-345,Learnova,B,B,True,True,True,False
-346,Learnova,A,A,True,True,True,False
-347,Learnova,B,B,True,True,True,False
-348,Learnova,A,A,True,True,True,False
-349,Learnova,C,C,True,True,True,False
-350,Learnova,D,D,True,True,True,False
-351,Learnova,C,C,True,True,True,False
-352,Learnova,A,A,True,True,True,False
-353,Learnova,A,A,True,True,True,False
-354,Learnova,D,D,True,True,True,False
-355,Learnova,B,B,True,True,True,False
-356,Learnova,C,C,True,True,True,False
-357,Learnova,D,D,True,True,True,False
-358,Learnova,A,A,True,True,True,False
-359,Learnova,B,B,True,True,True,False
-360,Learnova,B,B,True,True,True,False
-361,Learnova,A,A,True,True,True,False
-362,Learnova,D,D,True,True,True,False
-363,Learnova,C,C,True,True,True,False
-364,Learnova,B,B,True,True,True,False
-365,Learnova,C,C,True,True,True,False
-366,Learnova,B,B,True,True,True,False
-367,Learnova,A,A,True,True,True,False
-368,Learnova,A,A,True,True,True,False
-369,Learnova,C,C,True,True,True,False
-370,Learnova,A,A,True,True,True,False
-371,Learnova,A,A,True,True,True,False
-372,Learnova,D,D,True,True,True,False
-373,Learnova,C,C,True,True,True,False
-374,Learnova,B,B,True,True,True,False
-375,Learnova,A,A,True,True,True,False
-376,Learnova,B,B,True,True,True,False
-377,Learnova,A,A,True,True,True,False
-378,Learnova,A,A,True,True,True,False
-379,Learnova,A,A,True,True,True,False
-380,Learnova,A,A,True,True,True,False
-381,Learnova,D,D,True,True,True,False
-382,Learnova,B,B,True,True,True,False
-383,Learnova,D,D,True,True,True,False
-384,Learnova,B,B,True,True,True,False
-385,Learnova,B,B,True,True,True,False
-386,Learnova,A,A,True,True,True,False
-387,Learnova,B,B,True,True,True,False
-388,Learnova,C,C,True,True,True,False
-389,Learnova,B,B,True,True,True,False
-390,Learnova,D,D,True,True,True,False
-391,Learnova,B,B,True,True,True,False
-392,Learnova,B,B,True,True,True,False
-393,Learnova,D,D,True,True,True,False
-394,Learnova,C,C,True,True,True,False
-395,Learnova,A,A,True,True,True,False
-396,Learnova,C,C,True,True,True,False
-397,Learnova,A,A,True,True,True,False
-398,Learnova,B,B,True,True,True,False
-399,Learnova,D,D,True,True,True,False
-400,Learnova,C,C,True,True,True,False
-401,Learnova,C,C,True,True,True,False
-402,Learnova,B,B,True,True,True,False
-403,Learnova,A,A,True,True,True,False
-404,Learnova,A,A,True,True,True,False
-405,Learnova,A,A,True,True,True,False
-406,Learnova,C,C,True,True,True,False
-407,Learnova,B,B,True,True,True,False
-408,Learnova,A,A,True,True,True,False
-409,Learnova,D,D,True,True,True,False
-410,Learnova,C,C,True,True,True,False
-411,Learnova,A,A,True,True,True,False
-412,Learnova,C,C,True,True,True,False
-413,Learnova,A,A,True,True,True,False
-414,Learnova,D,D,True,True,True,False
-415,Learnova,C,C,True,True,True,False
-416,Learnova,D,D,True,True,True,False
-417,Learnova,A,A,True,True,True,False
-418,Learnova,C,C,True,True,True,False
-419,Learnova,B,B,True,True,True,False
-420,Learnova,C,C,True,True,True,False
-421,Learnova,A,A,True,True,True,False
-422,Learnova,A,A,True,True,True,False
-423,Learnova,C,C,True,True,True,False
-424,Learnova,B,B,True,True,True,False
-425,Learnova,D,D,True,True,True,False
-426,Learnova,B,B,True,True,True,False
-427,Learnova,C,C,True,True,True,False
-428,Learnova,A,A,True,True,True,False
-429,Learnova,B,B,True,True,True,False
-430,Learnova,D,D,True,True,True,False
-431,Learnova,D,D,True,True,True,False
-432,Learnova,B,B,True,True,True,False
-433,Learnova,C,C,True,True,True,False
-434,Learnova,A,A,True,True,True,False
-435,Learnova,D,D,True,True,True,False
-436,Learnova,C,C,True,True,True,False
-437,Learnova,B,B,True,True,True,False
-438,Learnova,A,A,True,True,True,False
-439,Learnova,C,C,True,True,True,False
-440,Learnova,B,B,True,True,True,False
-441,Learnova,D,D,True,True,True,False
-442,Learnova,A,A,True,True,True,False
-443,Learnova,B,B,True,True,True,False
-444,Learnova,B,B,True,True,True,False
-445,Learnova,B,B,True,True,True,False
-446,Learnova,B,B,True,True,True,False
-447,Learnova,C,C,True,True,True,False
-448,Learnova,C,C,True,True,True,False
-449,Learnova,A,A,True,True,True,False
-450,Learnova,D,D,True,True,True,False
-451,Learnova,D,D,True,True,True,False
-452,Learnova,C,C,True,True,True,False
-453,Learnova,A,A,True,True,True,False
-454,Learnova,B,B,True,True,True,False
-455,Learnova,C,C,True,True,True,False
-456,Learnova,C,C,True,True,True,False
-457,Learnova,B,B,True,True,True,False
-458,Learnova,B,B,True,True,True,False
-459,Learnova,A,A,True,True,True,False
-460,Learnova,C,C,True,True,True,False
-461,Learnova,C,C,True,True,True,False
-462,Learnova,A,A,True,True,True,False
-463,Learnova,C,C,True,True,True,False
-464,Learnova,B,B,True,True,True,False
-465,Learnova,B,B,True,True,True,False
-466,Learnova,A,A,True,True,True,False
-467,Learnova,C,C,True,True,True,False
-468,Learnova,B,B,True,True,True,False
-469,Learnova,A,A,True,True,True,False
-470,Learnova,D,D,True,True,True,False
-471,Learnova,C,C,True,True,True,False
-472,Learnova,A,A,True,True,True,False
-473,Learnova,C,C,True,True,True,False
-474,Learnova,A,A,True,True,True,False
-475,Learnova,A,A,True,True,True,False
-476,Learnova,B,B,True,True,True,False
-477,Learnova,D,D,True,True,True,False
-478,Learnova,D,D,True,True,True,False
-479,Learnova,A,A,True,True,True,False
-480,Learnova,B,B,True,True,True,False
-481,Learnova,D,D,True,True,True,False
-482,Learnova,B,B,True,True,True,False
-483,Learnova,A,A,True,True,True,False
-484,Learnova,C,C,True,True,True,False
-485,Learnova,B,B,True,True,True,False
-486,Learnova,D,D,True,True,True,False
-487,Learnova,A,A,True,True,True,False
-488,Learnova,C,C,True,True,True,False
-489,Learnova,B,B,True,True,True,False
-490,Learnova,A,A,True,True,True,False
-491,Learnova,A,A,True,True,True,False
-492,Learnova,B,B,True,True,True,False
-493,Learnova,D,D,True,True,True,False
-494,Learnova,C,C,True,True,True,False
-495,Learnova,A,A,True,True,True,False
-496,Learnova,A,A,True,True,True,False
-497,Learnova,A,A,True,True,True,False
-498,Learnova,B,B,True,True,True,False
-499,Learnova,A,A,True,True,True,False
-500,Learnova,D,D,True,True,True,False
-501,Learnova,B,B,True,True,True,False
-502,Learnova,D,D,True,True,True,False
-503,Learnova,B,B,True,True,True,False
-504,Learnova,A,A,True,True,True,False
-505,Learnova,D,D,True,True,True,False
-506,Learnova,C,C,True,True,True,False
-507,Learnova,A,A,True,True,True,False
-508,Learnova,C,C,True,True,True,False
-509,Learnova,B,B,True,True,True,False
-510,Learnova,B,B,True,True,True,False
-511,Learnova,C,C,True,True,True,False
-512,Learnova,B,B,True,True,True,False
-513,Learnova,C,C,True,True,True,False
-514,Learnova,A,A,True,True,True,False
-515,Learnova,B,B,True,True,True,False
-516,Learnova,A,A,True,True,True,False
-517,Learnova,C,C,True,True,True,False
-518,Learnova,A,A,True,True,True,False
-519,Learnova,A,A,True,True,True,False
-520,Learnova,B,B,True,True,True,False
-521,Learnova,C,C,True,True,True,False
-522,Learnova,D,D,True,True,True,False
-523,Learnova,A,A,True,True,True,False
-524,Learnova,C,C,True,True,True,False
-525,Learnova,B,B,True,True,True,False
-526,Learnova,C,C,True,True,True,False
-527,Learnova,A,A,True,True,True,False
-528,Learnova,B,B,True,True,True,False
-529,Learnova,D,D,True,True,True,False
-530,Learnova,A,A,True,True,True,False
-531,Learnova,C,C,True,True,True,False
-532,Learnova,B,B,True,True,True,False
-533,Learnova,A,A,True,True,True,False
-534,Learnova,D,D,True,True,True,False
-535,Learnova,A,A,True,True,True,False
-536,Learnova,B,B,True,True,True,False
-537,Learnova,A,A,True,True,True,False
-538,Learnova,C,C,True,True,True,False
-539,Learnova,A,A,True,True,True,False
-540,Learnova,D,D,True,True,True,False
-541,Learnova,A,A,True,True,True,False
-542,Learnova,C,C,True,True,True,False
-543,Learnova,B,B,True,True,True,False
-544,Learnova,A,A,True,True,True,False
-545,Learnova,D,D,True,True,True,False
-546,Learnova,A,A,True,True,True,False
-547,Learnova,B,B,True,True,True,False
-548,Learnova,A,A,True,True,True,False
-549,Learnova,D,D,True,True,True,False
-550,Learnova,A,A,True,True,True,False
-551,Learnova,A,A,True,True,True,False
-552,Learnova,C,C,True,True,True,False
-553,Learnova,A,A,True,True,True,False
-554,Learnova,B,B,True,True,True,False
-555,Learnova,D,D,True,True,True,False
-556,Learnova,C,C,True,True,True,False
-557,Learnova,A,A,True,True,True,False
-558,Learnova,B,B,True,True,True,False
-559,Learnova,A,A,True,True,True,False
-560,Learnova,B,B,True,True,True,False
-561,Learnova,C,C,True,True,True,False
-562,Learnova,D,D,True,True,True,False
-563,Learnova,B,B,True,True,True,False
-564,Learnova,A,A,True,True,True,False
-565,Learnova,C,C,True,True,True,False
-566,Learnova,B,B,True,True,True,False
-567,Learnova,D,D,True,True,True,False
-568,Learnova,A,A,True,True,True,False
-569,Learnova,D,D,True,True,True,False
-570,Learnova,C,C,True,True,True,False
-571,Learnova,C,C,True,True,True,False
-572,Learnova,B,B,True,True,True,False
-573,Learnova,B,B,True,True,True,False
-574,Learnova,A,A,True,True,True,False
-575,Learnova,B,B,True,True,True,False
-576,Learnova,A,A,True,True,True,False
-577,Learnova,A,A,True,True,True,False
-578,Learnova,B,B,True,True,True,False
-579,Learnova,C,C,True,True,True,False
-580,Learnova,B,B,True,True,True,False
-581,Learnova,A,A,True,True,True,False
-582,Learnova,A,A,True,True,True,False
-583,Learnova,B,B,True,True,True,False
-584,Learnova,A,A,True,True,True,False
-585,Learnova,D,D,True,True,True,False
-586,Learnova,C,C,True,True,True,False
-587,Learnova,B,B,True,True,True,False
-588,Learnova,B,B,True,True,True,False
-589,Learnova,A,A,True,True,True,False
-590,Learnova,C,C,True,True,True,False
-591,Learnova,B,B,True,True,True,False
-592,Learnova,A,A,True,True,True,False
-593,Learnova,D,D,True,True,True,False
-594,Learnova,A,A,True,True,True,False
-595,Learnova,D,D,True,True,True,False
-596,Learnova,B,B,True,True,True,False
-597,Learnova,B,B,True,True,True,False
-598,Learnova,A,A,True,True,True,False
-599,Learnova,D,D,True,True,True,False
-600,Learnova,C,C,True,True,True,False
-601,Learnova,A,A,True,True,True,False
-602,Learnova,B,B,True,True,True,False
-603,Learnova,C,C,True,True,True,False
-604,Learnova,D,D,True,True,True,False
-605,Learnova,C,C,True,True,True,False
-606,Learnova,B,B,True,True,True,False
-607,Learnova,A,A,True,True,True,False
-608,Learnova,B,B,True,True,True,False
-609,Learnova,B,B,True,True,True,False
-610,Learnova,C,C,True,True,True,False
-611,Learnova,A,A,True,True,True,False
-612,Learnova,D,D,True,True,True,False
-613,Learnova,B,B,True,True,True,False
-614,Learnova,A,A,True,True,True,False
-615,Learnova,D,D,True,True,True,False
-616,Learnova,D,D,True,True,True,False
-617,Learnova,B,B,True,True,True,False
-618,Learnova,B,B,True,True,True,False
-619,Learnova,C,C,True,True,True,False
-620,Learnova,B,B,True,True,True,False
-621,Learnova,B,B,True,True,True,False
-622,Learnova,D,D,True,True,True,False
-623,Learnova,B,B,True,True,True,False
-624,Learnova,A,A,True,True,True,False
-625,Learnova,C,C,True,True,True,False
-626,Learnova,B,B,True,True,True,False
-627,Learnova,C,C,True,True,True,False
-628,Learnova,B,B,True,True,True,False
-629,Learnova,D,D,True,True,True,False
-630,Learnova,B,B,True,True,True,False
-631,Learnova,A,A,True,True,True,False
-632,Learnova,C,C,True,True,True,False
-633,Learnova,B,B,True,True,True,False
-634,Learnova,D,D,True,True,True,False
-635,Learnova,B,B,True,True,True,False
-636,Learnova,B,B,True,True,True,False
-637,Learnova,A,A,True,True,True,False
-638,Learnova,B,B,True,True,True,False
-639,Learnova,A,A,True,True,True,False
-640,Learnova,A,A,True,True,True,False
-641,Learnova,D,D,True,True,True,False
-642,Learnova,C,C,True,True,True,False
-643,Learnova,B,B,True,True,True,False
-644,Learnova,C,C,True,True,True,False
-645,Learnova,A,A,True,True,True,False
-646,Learnova,D,D,True,True,True,False
-647,Learnova,B,B,True,True,True,False
-648,Learnova,D,D,True,True,True,False
-649,Learnova,D,D,True,True,True,False
-650,Learnova,B,B,True,True,True,False
-651,Learnova,B,B,True,True,True,False
-652,Learnova,B,B,True,True,True,False
-653,Learnova,B,B,True,True,True,False
-654,Learnova,C,C,True,True,True,False
-655,Learnova,A,A,True,True,True,False
-656,Learnova,A,A,True,True,True,False
-657,Learnova,A,A,True,True,True,False
-658,Learnova,C,C,True,True,True,False
-659,Learnova,B,B,True,True,True,False
-660,Learnova,B,B,True,True,True,False
-661,Learnova,A,A,True,True,True,False
-662,Learnova,B,B,True,True,True,False
-663,Learnova,C,C,True,True,True,False
-664,Learnova,D,D,True,True,True,False
-665,Learnova,C,C,True,True,True,False
-666,Learnova,A,A,True,True,True,False
-667,Learnova,B,B,True,True,True,False
-668,Learnova,A,A,True,True,True,False
-669,Learnova,D,D,True,True,True,False
-670,Learnova,B,B,True,True,True,False
-671,Learnova,B,B,True,True,True,False
-672,Learnova,C,C,True,True,True,False
-673,Learnova,A,A,True,True,True,False
-674,Learnova,A,A,True,True,True,False
-675,Learnova,B,B,True,True,True,False
-676,Learnova,A,A,True,True,True,False
-677,Learnova,B,B,True,True,True,False
-678,Learnova,A,A,True,True,True,False
-679,Learnova,D,D,True,True,True,False
-680,Learnova,B,B,True,True,True,False
-681,Learnova,A,A,True,True,True,False
-682,Learnova,B,B,True,True,True,False
-683,Learnova,A,A,True,True,True,False
-684,Learnova,C,C,True,True,True,False
-685,Learnova,D,D,True,True,True,False
-686,Learnova,B,B,True,True,True,False
-687,Learnova,A,A,True,True,True,False
-688,Learnova,C,C,True,True,True,False
-689,Learnova,A,A,True,True,True,False
-690,Learnova,A,A,True,True,True,False
-691,Learnova,A,A,True,True,True,False
-692,Learnova,C,C,True,True,True,False
-693,Learnova,B,B,True,True,True,False
-694,Learnova,B,B,True,True,True,False
-695,Learnova,A,A,True,True,True,False
-696,Learnova,C,C,True,True,True,False
-697,Learnova,B,B,True,True,True,False
-698,Learnova,B,B,True,True,True,False
-699,Learnova,C,C,True,True,True,False
-700,Learnova,C,C,True,True,True,False
-701,Learnova,C,C,True,True,True,False
-702,Learnova,A,A,True,True,True,False
-703,Learnova,C,C,True,True,True,False
-704,Learnova,B,B,True,True,True,False
-705,Learnova,B,B,True,True,True,False
-706,Learnova,C,C,True,True,True,False
-707,Learnova,C,C,True,True,True,False
-708,Learnova,A,A,True,True,True,False
-709,Learnova,B,B,True,True,True,False
-710,Learnova,B,B,True,True,True,False
-711,Learnova,C,C,True,True,True,False
-712,Learnova,B,B,True,True,True,False
-713,Learnova,D,D,True,True,True,False
-714,Learnova,A,A,True,True,True,False
-715,Learnova,C,C,True,True,True,False
-716,Learnova,C,C,True,True,True,False
-717,Learnova,D,D,True,True,True,False
-718,Learnova,C,C,True,True,True,False
-719,Learnova,B,B,True,True,True,False
-720,Learnova,B,B,True,True,True,False
-721,Learnova,D,D,True,True,True,False
-722,Learnova,B,B,True,True,True,False
-723,Learnova,C,C,True,True,True,False
-724,Learnova,C,C,True,True,True,False
-725,Learnova,B,B,True,True,True,False
-726,Learnova,A,A,True,True,True,False
-727,Learnova,B,B,True,True,True,False
-728,Learnova,B,B,True,True,True,False
-729,Learnova,B,B,True,True,True,False
-730,Learnova,B,B,True,True,True,False
-731,Learnova,B,B,True,True,True,False
-732,Learnova,C,C,True,True,True,False
-733,Learnova,B,B,True,True,True,False
-734,Learnova,C,C,True,True,True,False
-735,Learnova,C,C,True,True,True,False
-736,Learnova,A,A,True,True,True,False
-737,Learnova,A,A,True,True,True,False
-738,Learnova,B,B,True,True,True,False
-739,Learnova,C,C,True,True,True,False
-740,Learnova,B,B,True,True,True,False
-741,Learnova,D,D,True,True,True,False
-742,Learnova,D,D,True,True,True,False
-743,Learnova,B,B,True,True,True,False
-744,Learnova,B,B,True,True,True,False
-745,Learnova,B,B,True,True,True,False
-746,Learnova,A,A,True,True,True,False
-747,Learnova,A,A,True,True,True,False
-748,Learnova,C,C,True,True,True,False
-749,Learnova,B,B,True,True,True,False
-750,Learnova,C,C,True,True,True,False
-751,Learnova,B,B,True,True,True,False
-752,Learnova,C,C,True,True,True,False
-753,Learnova,C,C,True,True,True,False
-754,Learnova,B,B,True,True,True,False
-755,Learnova,C,C,True,True,True,False
-756,Learnova,A,A,True,True,True,False
-757,Learnova,D,D,True,True,True,False
-758,Learnova,B,B,True,True,True,False
-759,Learnova,C,C,True,True,True,False
-760,Learnova,A,A,True,True,True,False
-761,Learnova,A,A,True,True,True,False
-762,Learnova,C,C,True,True,True,False
-763,Learnova,A,A,True,True,True,False
-764,Learnova,B,B,True,True,True,False
-765,Learnova,C,C,True,True,True,False
-766,Learnova,B,B,True,True,True,False
-767,Learnova,D,D,True,True,True,False
-768,Learnova,A,A,True,True,True,False
-769,Learnova,B,B,True,True,True,False
-770,Learnova,B,B,True,True,True,False
-771,Learnova,D,D,True,True,True,False
-772,Learnova,B,B,True,True,True,False
-773,Learnova,A,A,True,True,True,False
-774,Learnova,A,A,True,True,True,False
-775,Learnova,A,A,True,True,True,False
-776,Learnova,A,A,True,True,True,False
-777,Learnova,A,A,True,True,True,False
-778,Learnova,B,B,True,True,True,False
-779,Learnova,C,C,True,True,True,False
-780,Learnova,D,D,True,True,True,False
-781,Learnova,D,D,True,True,True,False
-782,Learnova,B,B,True,True,True,False
-783,Learnova,C,C,True,True,True,False
-784,Learnova,C,C,True,True,True,False
-785,Learnova,B,B,True,True,True,False
-786,Learnova,B,B,True,True,True,False
-787,Learnova,A,A,True,False,True,False
-788,Learnova,C,C,True,True,True,False
-789,Learnova,A,A,True,True,True,False
-790,Learnova,A,A,True,True,True,False
-791,Learnova,C,C,True,True,True,False
-792,Learnova,B,B,True,True,True,False
-793,Learnova,A,A,True,True,True,False
-794,Learnova,B,B,True,True,True,False
-795,Learnova,B,B,True,True,True,False
-796,Learnova,B,B,True,True,True,False
-797,Learnova,C,C,True,True,True,False
-798,Learnova,B,B,True,True,True,False
-799,Learnova,A,A,True,True,True,False
-800,Learnova,C,C,True,True,True,False
-801,Learnova,A,A,True,True,True,False
-802,Learnova,C,C,True,True,True,False
-803,Learnova,A,A,True,True,True,False
-804,Learnova,B,B,True,True,True,False
-805,Learnova,C,C,True,True,True,False
-806,Learnova,A,A,True,True,True,False
-807,Learnova,D,D,True,True,True,False
-808,Learnova,C,C,True,True,True,False
-809,Learnova,B,B,True,True,True,False
-810,Learnova,A,A,True,True,True,False
-811,Learnova,B,B,True,True,True,False
-812,Learnova,B,B,True,True,True,False
-813,Learnova,A,A,True,True,True,False
-814,Learnova,D,D,True,True,True,False
-815,Learnova,D,D,True,True,True,False
-816,Learnova,D,D,True,True,True,False
-817,Learnova,C,C,True,True,True,False
-818,Learnova,A,A,True,True,True,False
-819,Learnova,C,C,True,True,True,False
-820,Learnova,B,B,True,True,True,False
-821,Learnova,D,D,True,True,True,False
-822,Learnova,B,B,True,True,True,False
-823,Learnova,A,A,True,True,True,False
-824,Learnova,D,D,True,True,True,False
-825,Learnova,C,C,True,True,True,False
-826,Learnova,C,C,True,True,True,False
-827,Learnova,B,B,True,True,True,False
-828,Learnova,D,D,True,True,True,False
-829,Learnova,C,C,True,True,True,False
-830,Learnova,D,D,True,True,True,False
-831,Learnova,C,C,True,True,True,False
-832,Learnova,B,B,True,True,True,False
-833,Learnova,B,B,True,True,True,False
-834,Learnova,D,D,True,True,True,False
-835,Learnova,C,C,True,True,True,False
-836,Learnova,D,D,True,True,True,False
-837,Learnova,B,B,True,True,True,False
-838,Learnova,B,B,True,True,True,False
-839,Learnova,A,A,True,True,True,False
-840,Learnova,B,B,True,True,True,False
-841,Learnova,B,B,True,True,True,False
-842,Learnova,A,A,True,True,True,False
-843,Learnova,D,D,True,True,True,False
-844,Learnova,A,A,True,True,True,False
-845,Learnova,A,A,True,True,True,False
-846,Learnova,C,C,True,True,True,False
-847,Learnova,C,C,True,True,True,False
-848,Learnova,C,C,True,True,True,False
-849,Learnova,C,C,True,True,True,False
-850,Learnova,B,B,True,True,True,False
-851,Learnova,D,D,True,True,True,False
-852,Learnova,B,B,True,True,True,False
-853,Learnova,C,C,True,True,True,False
-854,Learnova,C,C,True,True,True,False
-855,Learnova,A,A,True,True,True,False
-856,Learnova,A,A,True,True,True,False
-857,Learnova,B,B,True,True,True,False
-858,Learnova,B,B,True,True,True,False
-859,Learnova,A,A,True,True,True,False
-860,Learnova,C,C,True,True,True,False
-861,Learnova,A,A,True,True,True,False
-862,Learnova,C,C,True,True,True,False
-863,Learnova,C,C,True,True,True,False
-864,Learnova,B,B,True,True,True,False
-865,Learnova,A,A,True,True,True,False
-866,Learnova,C,C,True,True,True,False
-867,Learnova,C,C,True,True,True,False
-868,Learnova,A,A,True,True,True,False
-869,Learnova,B,B,True,True,True,False
-870,Learnova,D,D,True,True,True,False
-871,Learnova,C,C,True,True,True,False
-872,Learnova,B,B,True,True,True,False
-873,Learnova,B,B,True,True,True,False
-874,Learnova,C,C,True,True,True,False
-875,Learnova,C,C,True,True,True,False
-876,Learnova,A,A,True,True,True,False
-877,Learnova,A,A,True,True,True,False
-878,Learnova,B,B,True,True,True,False
-879,Learnova,D,D,True,True,True,False
-880,Learnova,B,B,True,True,True,False
-881,Learnova,A,A,True,True,True,False
-882,Learnova,C,C,True,True,True,False
-883,Learnova,B,B,True,True,True,False
-884,Learnova,D,D,True,True,True,False
-885,Learnova,B,B,True,True,True,False
-886,Learnova,B,B,True,True,True,False
-887,Learnova,D,D,True,True,True,False
-888,Learnova,B,B,True,True,True,False
-889,Learnova,A,A,True,True,True,False
-890,Learnova,C,C,True,True,True,False
-891,Learnova,A,A,True,True,True,False
-892,Learnova,D,D,True,True,True,False
-893,Learnova,B,B,True,True,True,False
-894,Learnova,B,B,True,True,True,False
-895,Learnova,A,A,True,True,True,False
-896,Learnova,C,C,True,True,True,False
-897,Learnova,C,C,True,True,True,False
-898,Learnova,A,A,True,True,True,False
-899,Learnova,B,B,True,True,True,False
-900,Learnova,B,B,True,True,True,False
-901,Learnova,D,D,True,True,True,False
-902,Learnova,C,C,True,True,True,False
-903,Learnova,C,C,True,True,True,False
-904,Learnova,A,A,True,True,True,False
-905,Learnova,B,B,True,True,True,False
-906,Learnova,D,D,True,True,True,False
-907,Learnova,D,D,True,True,True,False
-908,Learnova,B,B,True,True,True,False
-909,Learnova,A,A,True,True,True,False
-910,Learnova,B,B,True,True,True,False
-911,Learnova,C,C,True,True,True,False
-912,Learnova,B,B,True,True,True,False
-913,Learnova,D,D,True,True,True,False
-914,Learnova,B,B,True,True,True,False
-915,Learnova,B,B,True,True,True,False
-916,Learnova,D,D,True,True,True,False
-917,Learnova,A,A,True,True,True,False
-918,Learnova,A,A,True,True,True,False
-919,Learnova,C,C,True,True,True,False
-920,Learnova,A,A,True,True,True,False
-921,Learnova,A,A,True,True,True,False
-922,Learnova,A,A,True,True,True,False
-923,Learnova,D,D,True,True,True,False
-924,Learnova,C,C,True,True,True,False
-925,Learnova,D,D,True,True,True,False
-926,Learnova,C,C,True,True,True,False
-927,Learnova,A,A,True,True,True,False
-928,Learnova,D,D,True,True,True,False
-929,Learnova,C,C,True,True,True,False
-930,Learnova,B,B,True,True,True,False
-931,Learnova,D,D,True,True,True,False
-932,Learnova,D,D,True,True,True,False
-933,Learnova,D,D,True,True,True,False
-934,Learnova,B,B,True,True,True,False
-935,Learnova,D,D,True,True,True,False
-936,Learnova,B,B,True,True,True,False
-937,Learnova,B,B,True,True,True,False
-938,Learnova,B,B,True,True,True,False
-939,Learnova,B,B,True,True,True,False
-940,Learnova,C,C,True,True,True,False
-941,Learnova,C,C,True,True,True,False
-942,Learnova,C,C,True,True,True,False
-943,Learnova,B,B,True,True,True,False
-944,Learnova,B,B,True,True,True,False
-945,Learnova,B,B,True,True,True,False
-946,Learnova,B,B,True,True,True,False
-947,Learnova,C,C,True,True,True,False
-948,Learnova,A,A,True,True,True,False
-949,Learnova,B,B,True,True,True,False
-950,Learnova,A,A,True,True,True,False
-951,Learnova,B,B,True,True,True,False
-952,Learnova,B,B,True,True,True,False
-953,Learnova,B,B,True,True,True,False
-954,Learnova,A,A,True,True,True,False
-955,Learnova,B,B,True,True,True,False
-956,Learnova,D,D,True,True,True,False
-957,Learnova,B,B,True,True,True,False
-958,Learnova,A,A,True,True,True,False
-959,Learnova,B,B,True,True,True,False
-960,Learnova,A,A,True,True,True,False
-961,Learnova,B,B,True,True,True,False
-962,Learnova,B,B,True,True,True,False
-963,Learnova,A,A,True,True,True,False
-964,Learnova,C,C,True,True,True,False
-965,Learnova,D,D,True,True,True,False
-966,Learnova,A,A,True,True,True,False
-967,Learnova,C,C,True,True,True,False
-968,Learnova,B,B,True,True,True,False
-969,Learnova,C,C,True,True,True,False
-970,Learnova,B,B,True,True,True,False
-971,Learnova,C,C,True,True,True,False
-972,Learnova,A,A,True,True,True,False
-973,Learnova,B,B,True,True,True,False
-974,Learnova,C,C,True,True,True,False
-975,Learnova,A,A,True,True,True,False
-976,Learnova,A,A,True,True,True,False
-977,Learnova,B,B,True,True,True,False
-978,Learnova,C,C,True,True,True,False
-979,Learnova,B,B,True,True,True,False
-980,Learnova,B,B,True,True,True,False
-981,Learnova,B,B,True,True,True,False
-982,Learnova,A,A,True,True,True,False
-983,Learnova,B,B,True,True,True,False
-984,Learnova,B,B,True,True,True,False
-985,Learnova,D,D,True,True,True,False
-986,Learnova,B,B,True,True,True,False
-987,Learnova,A,A,True,True,True,False
-988,Learnova,A,A,True,True,True,False
-989,Learnova,B,B,True,True,True,False
-990,Learnova,A,A,True,True,True,False
-991,Learnova,C,C,True,True,True,False
-992,Learnova,A,A,True,True,True,False
-993,Learnova,B,B,True,True,True,False
-994,Learnova,A,A,True,True,True,False
-995,Learnova,C,C,True,True,True,False
-996,Learnova,D,D,True,True,True,False
-997,Learnova,C,C,True,True,True,False
-998,Learnova,C,C,True,True,True,False
-999,Learnova,C,C,True,True,True,False
-1000,Learnova,A,A,True,True,True,False
-1001,Learnova,D,D,True,True,True,False
-1002,Learnova,D,D,True,True,True,False
-1003,Learnova,C,C,True,True,True,False
-1004,Learnova,A,A,True,True,True,False
-1005,Learnova,C,C,True,True,True,False
-1006,Learnova,C,C,True,True,True,False
-1007,Learnova,A,A,True,True,True,False
-1008,Learnova,A,A,True,True,True,False
-1009,Learnova,D,D,True,True,True,False
-1010,Learnova,A,A,True,True,True,False
-1011,Learnova,B,B,True,True,True,False
-1012,Learnova,C,C,True,True,True,False
-1013,Learnova,B,B,True,True,True,False
-1014,Learnova,C,C,True,True,True,False
-1015,Learnova,A,A,True,True,True,False
-1016,Learnova,C,C,True,True,True,False
-1017,Learnova,A,A,True,True,True,False
-1018,Learnova,B,B,True,True,True,False
-1019,Learnova,A,A,True,True,True,False
-1020,Learnova,C,C,True,True,True,False
-1021,Learnova,D,D,True,True,True,False
-1022,Learnova,A,A,True,True,True,False
-1023,Learnova,A,A,True,True,True,False
-1024,Learnova,C,C,True,True,True,False
-1025,Learnova,C,C,True,True,True,False
-1026,Learnova,D,D,True,True,True,False
-1027,Learnova,A,A,True,True,True,False
-1028,Learnova,C,C,True,True,True,False
-1029,Learnova,B,B,True,True,True,False
-1030,Learnova,D,D,True,True,True,False
-1031,Learnova,D,D,True,True,True,False
-1032,Learnova,C,C,True,True,True,False
-1033,Learnova,B,B,True,True,True,False
-1034,Learnova,D,D,True,True,True,False
-1035,Learnova,A,A,True,True,True,False
-1036,Learnova,D,D,True,True,True,False
-1037,Learnova,A,A,True,True,True,False
-1038,Learnova,A,A,True,True,True,False
-1039,Learnova,C,C,True,True,True,False
-1040,Learnova,B,B,True,True,True,False
-1041,Learnova,B,B,True,True,True,False
-1042,Learnova,D,D,True,True,True,False
-1043,Learnova,B,B,True,True,True,False
-1044,Learnova,C,C,True,True,True,False
-1045,Learnova,A,A,True,True,True,False
-1046,Learnova,C,C,True,True,True,False
-1047,Learnova,B,B,True,True,True,False
-1048,Learnova,B,B,True,True,True,False
-1049,Learnova,B,B,True,True,True,False
-1050,Learnova,C,C,True,True,True,False
-1051,Learnova,B,B,True,True,True,False
-1052,Learnova,B,B,True,True,True,False
-E1-1,Learnova Exam 1,B,,,True,True,False
-E1-2,Learnova Exam 1,B,,,True,True,False
-E1-3,Learnova Exam 1,A,,,True,True,False
-E1-4,Learnova Exam 1,A,,,True,True,False
-E1-5,Learnova Exam 1,B,,,True,True,False
-E1-6,Learnova Exam 1,A,,,True,True,False
-E1-7,Learnova Exam 1,B,,,True,True,False
-E1-8,Learnova Exam 1,A,,,True,True,False
-E1-9,Learnova Exam 1,A,,,True,True,False
-E1-10,Learnova Exam 1,B,,,True,True,False
-E1-11,Learnova Exam 1,B,,,False,True,False
-E1-12,Learnova Exam 1,B,,,False,True,False
-E1-13,Learnova Exam 1,B,,,True,True,False
-E1-14,Learnova Exam 1,B,,,True,True,False
-E1-15,Learnova Exam 1,A,,,True,True,False
-E1-16,Learnova Exam 1,C,,,True,True,False
-E1-17,Learnova Exam 1,B,,,True,True,False
-E1-18,Learnova Exam 1,B,,,True,True,False
-E1-19,Learnova Exam 1,B,,,True,True,False
-E1-20,Learnova Exam 1,C,,,True,True,False
-E1-21,Learnova Exam 1,D,,,True,True,False
-E1-22,Learnova Exam 1,D,,,True,True,False
-E1-23,Learnova Exam 1,A,,,True,True,False
-E1-24,Learnova Exam 1,A,,,True,True,False
-E1-25,Learnova Exam 1,B,,,True,True,False
-E1-26,Learnova Exam 1,A,,,True,True,False
-E1-27,Learnova Exam 1,D,,,True,True,False
-E1-28,Learnova Exam 1,C,,,True,True,False
-E1-29,Learnova Exam 1,A,,,True,True,False
-E1-30,Learnova Exam 1,C,,,True,True,False
-E1-31,Learnova Exam 1,C,,,True,True,False
-E1-32,Learnova Exam 1,C,,,True,True,False
-E1-33,Learnova Exam 1,C,,,True,True,False
-E1-34,Learnova Exam 1,C,,,True,True,False
-E1-35,Learnova Exam 1,A,,,True,True,False
-E1-36,Learnova Exam 1,A,,,True,True,False
-E1-37,Learnova Exam 1,A,,,True,True,False
-E1-38,Learnova Exam 1,A,,,True,True,False
-E1-39,Learnova Exam 1,A,,,True,True,False
-E1-40,Learnova Exam 1,B,,,True,True,False
-E1-41,Learnova Exam 1,D,,,True,True,False
-E1-42,Learnova Exam 1,C,,,True,True,False
-E1-43,Learnova Exam 1,C,,,True,True,False
-E1-44,Learnova Exam 1,A,,,True,True,False
-E1-45,Learnova Exam 1,D,,,True,True,False
-E1-46,Learnova Exam 1,C,,,True,True,False
-E1-47,Learnova Exam 1,B,,,True,True,False
-E1-48,Learnova Exam 1,C,,,True,True,False
-E1-49,Learnova Exam 1,C,,,True,True,False
-E1-50,Learnova Exam 1,D,,,True,True,False
-E1-51,Learnova Exam 1,C,,,True,True,False
-E1-52,Learnova Exam 1,A,,,True,True,False
-E1-53,Learnova Exam 1,B,,,True,True,False
-E1-54,Learnova Exam 1,D,,,True,True,False
-E1-55,Learnova Exam 1,C,,,True,True,False
-E1-56,Learnova Exam 1,A,,,True,True,False
-E1-57,Learnova Exam 1,D,,,True,True,False
-E1-58,Learnova Exam 1,C,,,True,True,False
-E1-59,Learnova Exam 1,A,,,True,True,False
-E1-60,Learnova Exam 1,D,,,True,True,False
-E1-61,Learnova Exam 1,C,,,True,True,False
-E1-62,Learnova Exam 1,B,,,True,True,False
-E1-63,Learnova Exam 1,A,,,True,True,False
-E1-64,Learnova Exam 1,B,,,True,True,False
-E1-65,Learnova Exam 1,A,,,True,True,False
-E1-66,Learnova Exam 1,B,,,True,True,False
-E1-67,Learnova Exam 1,B,,,True,True,False
-E1-68,Learnova Exam 1,D,,,True,True,False
-E1-69,Learnova Exam 1,A,,,True,True,False
-E1-70,Learnova Exam 1,A,,,True,True,False
-E1-71,Learnova Exam 1,C,,,True,True,False
-E1-72,Learnova Exam 1,A,,,True,True,False
-E1-73,Learnova Exam 1,B,,,True,True,False
-E1-74,Learnova Exam 1,B,,,True,True,False
-E1-75,Learnova Exam 1,C,,,True,True,False
-E1-76,Learnova Exam 1,C,,,True,True,False
-E1-77,Learnova Exam 1,C,,,True,True,False
-E1-78,Learnova Exam 1,C,,,True,True,False
-E1-79,Learnova Exam 1,A,,,True,True,False
-E1-80,Learnova Exam 1,A,,,True,True,False
-E1-81,Learnova Exam 1,A,,,True,True,False
-E1-82,Learnova Exam 1,C,,,True,True,False
-E1-83,Learnova Exam 1,A,,,True,True,False
-E1-84,Learnova Exam 1,A,,,True,True,False
-E1-85,Learnova Exam 1,C,,,True,True,False
-E1-86,Learnova Exam 1,A,,,True,True,False
-E1-87,Learnova Exam 1,B,,,True,True,False
-E1-88,Learnova Exam 1,A,,,True,True,False
-E1-89,Learnova Exam 1,C,,,True,True,False
-E1-90,Learnova Exam 1,B,,,True,True,False
-E1-91,Learnova Exam 1,B,,,True,True,False
-E1-92,Learnova Exam 1,B,,,True,True,False
-E1-93,Learnova Exam 1,B,,,True,True,False
-E1-94,Learnova Exam 1,A,,,True,True,False
-E1-95,Learnova Exam 1,D,,,True,True,False
-E1-96,Learnova Exam 1,B,,,True,True,False
-E1-97,Learnova Exam 1,D,,,True,True,False
-E1-98,Learnova Exam 1,A,,,True,True,False
-E1-99,Learnova Exam 1,C,,,True,True,False
-E1-100,Learnova Exam 1,C,,,True,True,False
-E1-101,Learnova Exam 1,A,,,True,True,False
-E1-102,Learnova Exam 1,D,,,True,True,False
-E1-103,Learnova Exam 1,A,,,True,True,False
-E1-104,Learnova Exam 1,A,,,True,True,False
-E1-105,Learnova Exam 1,A,,,True,True,False
-E1-106,Learnova Exam 1,A,,,True,True,False
-E1-107,Learnova Exam 1,C,,,True,True,False
-E1-108,Learnova Exam 1,B,,,True,True,False
-E1-109,Learnova Exam 1,B,,,True,True,False
-E1-110,Learnova Exam 1,B,,,True,True,False
-E2-1,Learnova Exam 2,D,,,True,True,False
-E2-2,Learnova Exam 2,C,,,True,True,False
-E2-3,Learnova Exam 2,A,,,True,True,False
-E2-4,Learnova Exam 2,A,,,True,True,False
-E2-5,Learnova Exam 2,C,,,True,True,False
-E2-6,Learnova Exam 2,B,,,True,True,False
-E2-7,Learnova Exam 2,A,,,True,True,False
-E2-8,Learnova Exam 2,A,,,True,True,False
-E2-9,Learnova Exam 2,B,,,True,True,False
-E2-10,Learnova Exam 2,B,,,False,True,False
-E2-11,Learnova Exam 2,B,,,False,True,False
-E2-12,Learnova Exam 2,B,,,False,True,False
-E2-13,Learnova Exam 2,B,,,False,True,False
-E2-14,Learnova Exam 2,B,,,False,True,False
-E2-15,Learnova Exam 2,B,,,True,True,False
-E2-16,Learnova Exam 2,A,,,True,True,False
-E2-17,Learnova Exam 2,B,,,True,True,False
-E2-18,Learnova Exam 2,A,,,True,True,False
-E2-19,Learnova Exam 2,D,,,True,True,False
-E2-20,Learnova Exam 2,A,,,True,True,False
-E2-21,Learnova Exam 2,,,,True,True,False
-E2-22,Learnova Exam 2,D,,,True,True,False
-E2-23,Learnova Exam 2,A,,,True,True,False
-E2-24,Learnova Exam 2,D,,,True,True,False
-E2-25,Learnova Exam 2,D,,,True,True,False
-E2-26,Learnova Exam 2,B,,,True,True,False
-E2-27,Learnova Exam 2,C,,,True,True,False
-E2-28,Learnova Exam 2,C,,,True,True,False
-E2-29,Learnova Exam 2,A,,,True,True,False
-E2-30,Learnova Exam 2,B,,,True,True,False
-E2-31,Learnova Exam 2,A,,,True,True,False
-E2-32,Learnova Exam 2,B,,,True,True,False
-E2-33,Learnova Exam 2,D,,,True,True,False
-E2-34,Learnova Exam 2,A,,,True,True,False
-E2-35,Learnova Exam 2,B,,,True,True,False
-E2-36,Learnova Exam 2,D,,,True,True,False
-E2-37,Learnova Exam 2,A,,,True,True,False
-E2-38,Learnova Exam 2,A,,,True,True,False
-E2-39,Learnova Exam 2,A,,,True,True,False
-E2-40,Learnova Exam 2,C,,,True,True,False
-E2-41,Learnova Exam 2,A,,,True,True,False
-E2-42,Learnova Exam 2,C,,,True,True,False
-E2-43,Learnova Exam 2,D,,,True,True,False
-E2-44,Learnova Exam 2,A,,,True,True,False
-E2-45,Learnova Exam 2,B,,,True,True,False
-E2-46,Learnova Exam 2,B,,,True,True,False
-E2-47,Learnova Exam 2,C,,,True,True,False
-E2-48,Learnova Exam 2,B,,,True,True,False
-E2-49,Learnova Exam 2,A,,,True,True,False
-E2-50,Learnova Exam 2,B,,,True,True,False
-E2-51,Learnova Exam 2,B,,,True,True,False
-E2-52,Learnova Exam 2,A,,,True,True,False
-E2-53,Learnova Exam 2,B,,,True,True,False
-E2-54,Learnova Exam 2,C,,,True,True,False
-E2-55,Learnova Exam 2,C,,,True,True,False
-E2-56,Learnova Exam 2,A,,,True,True,False
-E2-57,Learnova Exam 2,B,,,True,True,False
-E2-58,Learnova Exam 2,C,,,True,True,False
-E2-59,Learnova Exam 2,B,,,True,True,False
-E2-60,Learnova Exam 2,D,,,True,True,False
-E2-61,Learnova Exam 2,A,,,True,True,False
-E2-62,Learnova Exam 2,C,,,True,True,False
-E2-63,Learnova Exam 2,D,,,True,True,False
-E2-64,Learnova Exam 2,D,,,True,True,False
-E2-65,Learnova Exam 2,B,,,True,True,False
-E2-66,Learnova Exam 2,B,,,True,True,False
-E2-67,Learnova Exam 2,A,,,True,True,False
-E2-68,Learnova Exam 2,D,,,True,True,False
-E2-69,Learnova Exam 2,C,,,True,True,False
-E2-70,Learnova Exam 2,A,,,True,True,False
-E2-71,Learnova Exam 2,D,,,True,True,False
-E2-72,Learnova Exam 2,B,,,True,True,False
-E2-73,Learnova Exam 2,A,,,True,True,False
-E2-74,Learnova Exam 2,A,,,True,True,False
-E2-75,Learnova Exam 2,B,,,True,True,False
-E2-76,Learnova Exam 2,B,,,True,True,False
-E2-77,Learnova Exam 2,A,,,True,True,False
-E2-78,Learnova Exam 2,B,,,True,True,False
-E2-79,Learnova Exam 2,B,,,True,True,False
-E2-80,Learnova Exam 2,B,,,True,True,False
-E2-81,Learnova Exam 2,A,,,True,True,False
-E2-82,Learnova Exam 2,A,,,True,True,False
-E2-83,Learnova Exam 2,B,,,True,True,False
-E2-84,Learnova Exam 2,D,,,True,True,False
-E2-85,Learnova Exam 2,A,,,True,True,False
-E2-86,Learnova Exam 2,B,,,True,True,False
-E2-87,Learnova Exam 2,C,,,True,True,False
-E2-88,Learnova Exam 2,B,,,True,True,False
-E2-89,Learnova Exam 2,A,,,True,True,False
-E2-90,Learnova Exam 2,C,,,True,True,False
-E2-91,Learnova Exam 2,B,,,True,True,False
-E2-92,Learnova Exam 2,C,,,True,True,False
-E2-93,Learnova Exam 2,B,,,True,True,False
-E2-94,Learnova Exam 2,A,,,True,True,False
-E2-95,Learnova Exam 2,D,,,True,True,False
-E2-96,Learnova Exam 2,C,,,True,True,False
-E2-97,Learnova Exam 2,C,,,True,True,False
-E2-98,Learnova Exam 2,B,,,True,True,False
-E2-99,Learnova Exam 2,B,,,True,True,False
-E2-100,Learnova Exam 2,A,,,True,True,False
-E2-101,Learnova Exam 2,A,,,True,True,False
-E2-102,Learnova Exam 2,A,,,True,True,False
-E2-103,Learnova Exam 2,A,,,True,True,False
-E2-104,Learnova Exam 2,B,,,True,True,False
-E2-105,Learnova Exam 2,A,,,True,True,False
-E2-106,Learnova Exam 2,D,,,True,True,False
-E2-107,Learnova Exam 2,C,,,True,True,False
-E2-108,Learnova Exam 2,C,,,True,True,False
-E2-109,Learnova Exam 2,A,,,True,True,False
-E2-110,Learnova Exam 2,C,,,True,True,False
-E3-1,Learnova Exam 3,A,,,True,True,False
-E3-2,Learnova Exam 3,A,,,True,True,False
-E3-3,Learnova Exam 3,B,,,True,True,False
-E3-4,Learnova Exam 3,A,,,True,True,False
-E3-5,Learnova Exam 3,C,,,True,True,False
-E3-6,Learnova Exam 3,D,,,True,True,False
-E3-7,Learnova Exam 3,A,,,True,True,False
-E3-8,Learnova Exam 3,B,,,True,True,False
-E3-9,Learnova Exam 3,C,,,True,True,False
-E3-10,Learnova Exam 3,D,,,True,True,False
-E3-11,Learnova Exam 3,B,,,False,True,False
-E3-12,Learnova Exam 3,C,,,False,True,False
-E3-13,Learnova Exam 3,C,,,False,True,False
-E3-14,Learnova Exam 3,C,,,False,True,False
-E3-15,Learnova Exam 3,B,,,False,True,False
-E3-16,Learnova Exam 3,A,,,True,True,False
-E3-17,Learnova Exam 3,B,,,True,True,False
-E3-18,Learnova Exam 3,C,,,True,True,False
-E3-19,Learnova Exam 3,C,,,True,True,False
-E3-20,Learnova Exam 3,B,,,True,True,False
-E3-21,Learnova Exam 3,A,,,True,True,False
-E3-22,Learnova Exam 3,C,,,True,True,False
-E3-23,Learnova Exam 3,C,,,True,True,False
-E3-24,Learnova Exam 3,B,,,True,True,False
-E3-25,Learnova Exam 3,C,,,True,True,False
-E3-26,Learnova Exam 3,A,,,True,True,False
-E3-27,Learnova Exam 3,A,,,True,True,False
-E3-28,Learnova Exam 3,D,,,True,True,False
-E3-29,Learnova Exam 3,B,,,True,True,False
-E3-30,Learnova Exam 3,B,,,True,True,False
-E3-31,Learnova Exam 3,C,,,True,True,False
-E3-32,Learnova Exam 3,B,,,True,True,False
-E3-33,Learnova Exam 3,A,,,True,True,False
-E3-34,Learnova Exam 3,B,,,True,True,False
-E3-35,Learnova Exam 3,D,,,True,True,False
-E3-36,Learnova Exam 3,A,,,True,True,False
-E3-37,Learnova Exam 3,A,,,True,True,False
-E3-38,Learnova Exam 3,B,,,True,True,False
-E3-39,Learnova Exam 3,C,,,True,True,False
-E3-40,Learnova Exam 3,C,,,True,True,False
-E3-41,Learnova Exam 3,A,,,True,True,False
-E3-42,Learnova Exam 3,C,,,True,True,False
-E3-43,Learnova Exam 3,A,,,True,True,False
-E3-44,Learnova Exam 3,B,,,True,True,False
-E3-45,Learnova Exam 3,D,,,True,True,False
-E3-46,Learnova Exam 3,C,,,True,True,False
-E3-47,Learnova Exam 3,A,,,True,True,False
-E3-48,Learnova Exam 3,A,,,True,True,False
-E3-49,Learnova Exam 3,A,,,True,True,False
-E3-50,Learnova Exam 3,D,,,True,True,False
-E3-51,Learnova Exam 3,A,,,True,True,False
-E3-52,Learnova Exam 3,A,,,True,True,False
-E3-53,Learnova Exam 3,A,,,True,True,False
-E3-54,Learnova Exam 3,A,,,True,True,False
-E3-55,Learnova Exam 3,C,,,True,True,False
-E3-56,Learnova Exam 3,C,,,True,True,False
-E3-57,Learnova Exam 3,B,,,True,True,False
-E3-58,Learnova Exam 3,C,,,True,True,False
-E3-59,Learnova Exam 3,B,,,True,True,False
-E3-60,Learnova Exam 3,A,,,True,True,False
-E3-61,Learnova Exam 3,D,,,True,True,False
-E3-62,Learnova Exam 3,A,,,True,True,False
-E3-63,Learnova Exam 3,D,,,True,True,False
-E3-64,Learnova Exam 3,A,,,True,True,False
-E3-65,Learnova Exam 3,B,,,True,True,False
-E3-66,Learnova Exam 3,B,,,True,True,False
-E3-67,Learnova Exam 3,D,,,True,True,False
-E3-68,Learnova Exam 3,B,,,True,True,False
-E3-69,Learnova Exam 3,C,,,True,True,False
-E3-70,Learnova Exam 3,C,,,True,True,False
-E3-71,Learnova Exam 3,B,,,True,True,False
-E3-72,Learnova Exam 3,A,,,True,True,False
-E3-73,Learnova Exam 3,D,,,True,True,False
-E3-74,Learnova Exam 3,B,,,True,True,False
-E3-75,Learnova Exam 3,C,,,True,True,False
-E3-76,Learnova Exam 3,D,,,True,True,False
-E3-77,Learnova Exam 3,B,,,True,True,False
-E3-78,Learnova Exam 3,A,,,True,True,False
-E3-79,Learnova Exam 3,B,,,True,True,False
-E3-80,Learnova Exam 3,C,,,True,True,False
-E3-81,Learnova Exam 3,B,,,True,True,False
-E3-82,Learnova Exam 3,A,,,True,True,False
-E3-83,Learnova Exam 3,D,,,True,True,False
-E3-84,Learnova Exam 3,C,,,True,True,False
-E3-85,Learnova Exam 3,C,,,True,True,False
-E3-86,Learnova Exam 3,B,,,True,True,False
-E3-87,Learnova Exam 3,B,,,True,True,False
-E3-88,Learnova Exam 3,D,,,True,True,False
-E3-89,Learnova Exam 3,B,,,True,True,False
-E3-90,Learnova Exam 3,B,,,True,True,False
-E3-91,Learnova Exam 3,B,,,True,True,False
-E3-92,Learnova Exam 3,D,,,True,True,False
-E3-93,Learnova Exam 3,C,,,True,True,False
-E3-94,Learnova Exam 3,A,,,True,True,False
-E3-95,Learnova Exam 3,A,,,True,True,False
-E3-96,Learnova Exam 3,B,,,True,True,False
-E3-97,Learnova Exam 3,C,,,True,True,False
-E3-98,Learnova Exam 3,B,,,True,True,False
-E3-99,Learnova Exam 3,D,,,True,True,False
-E3-100,Learnova Exam 3,D,,,True,True,False
-E3-101,Learnova Exam 3,A,,,True,True,False
-E3-102,Learnova Exam 3,A,,,True,True,False
-E3-103,Learnova Exam 3,D,,,True,True,False
-E3-104,Learnova Exam 3,B,,,True,True,False
-E3-105,Learnova Exam 3,D,,,True,True,False
-E3-106,Learnova Exam 3,A,,,True,True,False
-E3-107,Learnova Exam 3,A,,,True,True,False
-E3-108,Learnova Exam 3,A,,,True,True,False
-E3-109,Learnova Exam 3,C,,,True,True,False
-E3-110,Learnova Exam 3,B,,,True,True,False
-E4-1,Learnova Exam 4,B,,,True,True,False
-E4-2,Learnova Exam 4,A,,,True,True,False
-E4-3,Learnova Exam 4,A,,,True,True,False
-E4-4,Learnova Exam 4,A,,,True,True,False
-E4-5,Learnova Exam 4,A,,,True,True,False
-E4-6,Learnova Exam 4,C,,,True,True,False
-E4-7,Learnova Exam 4,D,,,True,True,False
-E4-8,Learnova Exam 4,A,,,True,True,False
-E4-9,Learnova Exam 4,A,,,True,True,False
-E4-10,Learnova Exam 4,C,,,False,True,False
-E4-11,Learnova Exam 4,D,,,False,True,False
-E4-12,Learnova Exam 4,A,,,False,True,False
-E4-13,Learnova Exam 4,B,,,False,True,False
-E4-14,Learnova Exam 4,B,,,False,True,False
-E4-15,Learnova Exam 4,A,,,True,True,False
-E4-16,Learnova Exam 4,A,,,True,True,False
-E4-17,Learnova Exam 4,D,,,True,True,False
-E4-18,Learnova Exam 4,C,,,True,True,False
-E4-19,Learnova Exam 4,C,,,True,True,False
-E4-20,Learnova Exam 4,C,,,True,True,False
-E4-21,Learnova Exam 4,C,,,True,True,False
-E4-22,Learnova Exam 4,C,,,True,True,False
-E4-23,Learnova Exam 4,A,,,True,True,False
-E4-24,Learnova Exam 4,C,,,True,True,False
-E4-25,Learnova Exam 4,B,,,True,True,False
-E4-26,Learnova Exam 4,B,,,True,True,False
-E4-27,Learnova Exam 4,D,,,True,True,False
-E4-28,Learnova Exam 4,D,,,True,True,False
-E4-29,Learnova Exam 4,C,,,True,True,False
-E4-30,Learnova Exam 4,D,,,True,True,False
-E4-31,Learnova Exam 4,A,,,True,True,False
-E4-32,Learnova Exam 4,B,,,True,True,False
-E4-33,Learnova Exam 4,A,,,True,True,False
-E4-34,Learnova Exam 4,A,,,True,True,False
-E4-35,Learnova Exam 4,D,,,True,True,False
-E4-36,Learnova Exam 4,A,,,True,True,False
-E4-37,Learnova Exam 4,A,,,True,True,False
-E4-38,Learnova Exam 4,D,,,True,True,False
-E4-39,Learnova Exam 4,A,,,True,True,False
-E4-40,Learnova Exam 4,B,,,True,True,False
-E4-41,Learnova Exam 4,C,,,True,True,False
-E4-42,Learnova Exam 4,C,,,True,True,False
-E4-43,Learnova Exam 4,C,,,True,True,False
-E4-44,Learnova Exam 4,B,,,True,True,False
-E4-45,Learnova Exam 4,A,,,True,True,False
-E4-46,Learnova Exam 4,B,,,True,True,False
-E4-47,Learnova Exam 4,A,,,True,True,False
-E4-48,Learnova Exam 4,A,,,True,True,False
-E4-49,Learnova Exam 4,D,,,True,True,False
-E4-50,Learnova Exam 4,D,,,True,True,False
-E4-51,Learnova Exam 4,C,,,True,True,False
-E4-52,Learnova Exam 4,C,,,True,True,False
-E4-53,Learnova Exam 4,B,,,True,True,False
-E4-54,Learnova Exam 4,B,,,True,True,False
-E4-55,Learnova Exam 4,D,,,True,True,False
-E4-56,Learnova Exam 4,B,,,True,True,False
-E4-57,Learnova Exam 4,C,,,True,True,False
-E4-58,Learnova Exam 4,A,,,True,True,False
-E4-59,Learnova Exam 4,D,,,True,True,False
-E4-60,Learnova Exam 4,D,,,True,True,False
-E4-61,Learnova Exam 4,A,,,True,True,False
-E4-62,Learnova Exam 4,A,,,True,True,False
-E4-63,Learnova Exam 4,B,,,True,True,False
-E4-64,Learnova Exam 4,A,,,True,True,False
-E4-65,Learnova Exam 4,A,,,True,True,False
-E4-66,Learnova Exam 4,A,,,True,True,False
-E4-67,Learnova Exam 4,D,,,True,True,False
-E4-68,Learnova Exam 4,A,,,True,True,False
-E4-69,Learnova Exam 4,C,,,True,True,False
-E4-70,Learnova Exam 4,B,,,True,True,False
-E4-71,Learnova Exam 4,B,,,True,True,False
-E4-72,Learnova Exam 4,A,,,True,True,False
-E4-73,Learnova Exam 4,B,,,True,True,False
-E4-74,Learnova Exam 4,A,,,True,True,False
-E4-75,Learnova Exam 4,B,,,True,True,False
-E4-76,Learnova Exam 4,B,,,True,True,False
-E4-77,Learnova Exam 4,C,,,True,True,False
-E4-78,Learnova Exam 4,A,,,True,True,False
-E4-79,Learnova Exam 4,A,,,True,True,False
-E4-80,Learnova Exam 4,A,,,True,True,False
-E4-81,Learnova Exam 4,D,,,True,True,False
-E4-82,Learnova Exam 4,B,,,True,True,False
-E4-83,Learnova Exam 4,C,,,True,True,False
-E4-84,Learnova Exam 4,C,,,True,True,False
-E4-85,Learnova Exam 4,B,,,True,True,False
-E4-86,Learnova Exam 4,C,,,True,True,False
-E4-87,Learnova Exam 4,A,,,True,True,False
-E4-88,Learnova Exam 4,A,,,True,True,False
-E4-89,Learnova Exam 4,A,,,True,True,False
-E4-90,Learnova Exam 4,A,,,True,True,False
-E4-91,Learnova Exam 4,C,,,True,True,False
-E4-92,Learnova Exam 4,D,,,True,True,False
-E4-93,Learnova Exam 4,D,,,True,True,False
-E4-94,Learnova Exam 4,B,,,True,True,False
-E4-95,Learnova Exam 4,B,,,True,True,False
-E4-96,Learnova Exam 4,A,,,True,True,False
-E4-97,Learnova Exam 4,A,,,True,True,False
-E4-98,Learnova Exam 4,C,,,True,True,False
-E4-99,Learnova Exam 4,D,,,True,True,False
-E4-100,Learnova Exam 4,A,,,True,True,False
-E4-101,Learnova Exam 4,B,,,True,True,False
-E4-102,Learnova Exam 4,D,,,True,True,False
-E4-103,Learnova Exam 4,C,,,True,True,False
-E4-104,Learnova Exam 4,D,,,True,True,False
-E4-105,Learnova Exam 4,A,,,True,True,False
-E4-106,Learnova Exam 4,D,,,True,True,False
-E4-107,Learnova Exam 4,A,,,True,True,False
-E4-108,Learnova Exam 4,B,,,True,True,False
-E4-109,Learnova Exam 4,D,,,True,True,False
-E4-110,Learnova Exam 4,A,,,True,True,False
+id,source,source_key_detected,website_key,source_key_matches_website,answer_heading_present,source_key_detection_automated,manual_numeric_verification,accepted_answers,answer_policy,key_source_note
+1,Learnova,A,A,True,True,True,True,A,previously available key,
+2,Learnova,C,C,True,True,True,True,C,previously available key,
+3,Learnova,B,B,True,True,True,False,B,nearest-printed-choice,
+4,Learnova,A,A,True,True,True,True,A,previously available key,
+5,Learnova,B,B,True,True,True,True,B,previously available key,
+6,Learnova,A,A,True,True,True,True,A,previously available key,
+7,Learnova,B,B,True,True,True,True,B,previously available key,
+8,Learnova,D,D,True,True,True,True,D,previously available key,
+9,Learnova,B,B,True,True,True,True,B,previously available key,
+10,Learnova,A,A,True,True,True,True,A,previously available key,
+11,Learnova,C,C,True,True,True,True,C,previously available key,
+12,Learnova,B,B,True,True,True,True,B,previously available key,
+13,Learnova,C,C,True,True,True,True,C,previously available key,
+14,Learnova,C,C,True,True,True,True,C,previously available key,
+15,Learnova,A,A,True,True,True,True,A,previously available key,
+16,Learnova,A,A,True,True,True,True,A,previously available key,
+17,Learnova,B,B,True,True,True,True,B,previously available key,
+18,Learnova,B,A,False,True,True,True,A,previously available key,
+19,Learnova,C,C,True,True,True,True,C,previously available key,
+20,Learnova,A,A,True,True,True,True,A,previously available key,
+21,Learnova,A,A,True,True,True,True,A,previously available key,
+22,Learnova,A,A,True,True,True,True,A,previously available key,
+23,Learnova,A,A,True,True,True,True,A,previously available key,
+24,Learnova,D,D,True,True,True,True,D,previously available key,
+25,Learnova,B,B,True,True,True,True,B,previously available key,
+26,Learnova,C,C,True,True,True,True,C,previously available key,
+27,Learnova,C,C,True,True,True,True,C,previously available key,
+28,Learnova,C,C,True,True,True,True,C,previously available key,
+29,Learnova,A,A,True,True,True,True,A,previously available key,
+30,Learnova,A,A,True,True,True,True,A,previously available key,
+31,Learnova,D,D,True,True,True,True,D,previously available key,
+32,Learnova,A,A,True,True,True,True,A,previously available key,
+33,Learnova,D,D,True,True,True,True,D,previously available key,
+34,Learnova,C,C,True,True,True,True,C,previously available key,
+35,Learnova,D,D,True,True,True,True,D,previously available key,
+36,Learnova,A,A,True,True,True,True,A,previously available key,
+37,Learnova,A,A,True,True,True,True,A,previously available key,
+38,Learnova,A,B,False,True,True,True,B,previously available key,
+39,Learnova,A,A,True,True,True,True,A,previously available key,
+40,Learnova,A,A,True,True,True,True,A,previously available key,
+41,Learnova,A,A,True,True,True,True,A,previously available key,
+42,Learnova,B,B,True,True,True,True,B,previously available key,
+43,Learnova,A,A,True,True,True,True,A,previously available key,
+44,Learnova,D,D,True,True,True,True,D,previously available key,
+45,Learnova,A,A,True,True,True,True,A,previously available key,
+46,Learnova,A,A,True,True,True,True,A,previously available key,
+47,Learnova,B,B,True,True,True,True,B,previously available key,
+48,Learnova,A,A,True,True,True,True,A,previously available key,
+49,Learnova,A,A,True,True,True,True,A,previously available key,
+50,Learnova,A,A,True,True,True,True,A,previously available key,
+51,Learnova,B,B,True,True,True,True,B,previously available key,
+52,Learnova,B,A,False,True,True,True,A,previously available key,
+53,Learnova,A,A,True,True,True,True,A,previously available key,
+54,Learnova,B,B,True,True,True,True,B,previously available key,
+55,Learnova,D,D,True,True,True,True,D,previously available key,
+56,Learnova,A,A,True,True,True,True,A,previously available key,
+57,Learnova,B,B,True,True,True,True,B,previously available key,
+58,Learnova,C,C,True,True,True,True,C,previously available key,
+59,Learnova,A,A,True,True,True,True,A,previously available key,
+60,Learnova,C,C,True,True,True,False,C,previously available key,
+61,Learnova,A,A,True,True,True,False,A,previously available key,
+62,Learnova,B,B,True,True,True,False,B,previously available key,
+63,Learnova,A,A,True,True,True,False,A,previously available key,
+64,Learnova,A,A,True,True,True,False,A,previously available key,
+65,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+66,Learnova,B,B,True,True,True,False,B,previously available key,
+67,Learnova,B,B,True,True,True,False,B,previously available key,
+68,Learnova,A,A,True,True,True,False,"A,D",multiple-accepted-interpretations,
+69,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+70,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+71,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+72,Learnova,A,A,True,True,True,False,A,previously available key,
+73,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+74,Learnova,D,D,True,True,True,False,D,previously available key,
+75,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+76,Learnova,B,B,True,True,True,False,B,previously available key,
+77,Learnova,A,A,True,True,True,False,A,previously available key,
+78,Learnova,C,C,True,True,True,False,C,previously available key,
+79,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+80,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+81,Learnova,B,B,True,True,True,True,B,previously available key,
+82,Learnova,B,B,True,True,True,True,B,previously available key,
+83,Learnova,B,B,True,True,True,True,B,previously available key,
+84,Learnova,B,B,True,False,True,True,B,previously available key,
+85,Learnova,B,B,True,False,True,True,B,previously available key,
+86,Learnova,B,B,True,False,True,True,B,previously available key,
+87,Learnova,B,B,True,False,True,True,B,previously available key,
+88,Learnova,B,B,True,False,True,True,B,previously available key,
+89,Learnova,B,B,True,False,True,True,B,previously available key,
+90,Learnova,B,B,True,False,True,False,B,previously available key,
+91,Learnova,B,B,True,False,True,True,B,previously available key,
+92,Learnova,B,B,True,False,True,True,B,previously available key,
+93,Learnova,B,B,True,True,True,False,B,previously available key,
+94,Learnova,B,B,True,True,True,False,B,previously available key,
+95,Learnova,B,B,True,True,True,False,B,previously available key,
+96,Learnova,B,B,True,False,True,False,B,previously available key,
+97,Learnova,C,C,True,False,True,False,C,previously available key,
+98,Learnova,B,B,True,False,True,False,B,previously available key,
+99,Learnova,C,C,True,False,True,False,C,previously available key,
+100,Learnova,C,C,True,False,True,False,C,previously available key,
+101,Learnova,B,B,True,False,True,False,B,previously available key,
+102,Learnova,B,B,True,False,True,False,B,previously available key,
+103,Learnova,C,C,True,False,True,False,C,previously available key,
+104,Learnova,B,B,True,False,True,False,B,previously available key,
+105,Learnova,B,B,True,False,True,False,B,previously available key,
+106,Learnova,B,B,True,False,True,False,B,previously available key,
+107,Learnova,D,D,True,False,True,False,D,previously available key,
+108,Learnova,C,C,True,False,True,False,C,previously available key,
+109,Learnova,B,B,True,False,True,False,B,previously available key,
+110,Learnova,B,B,True,False,True,False,B,previously available key,
+111,Learnova,C,C,True,False,True,False,C,previously available key,
+112,Learnova,C,C,True,False,True,False,C,previously available key,
+113,Learnova,B,B,True,False,True,False,B,previously available key,
+114,Learnova,B,B,True,False,True,False,B,previously available key,
+115,Learnova,B,B,True,False,True,False,B,previously available key,
+116,Learnova,B,B,True,False,True,False,B,previously available key,
+117,Learnova,B,B,True,False,True,False,B,previously available key,
+118,Learnova,C,C,True,False,True,False,C,previously available key,
+119,Learnova,B,B,True,False,True,False,B,previously available key,
+120,Learnova,A,A,True,False,True,False,A,previously available key,
+121,Learnova,B,B,True,False,True,False,B,previously available key,
+122,Learnova,B,B,True,False,True,False,B,previously available key,
+123,Learnova,C,C,True,False,True,False,C,previously available key,
+124,Learnova,C,C,True,False,True,False,C,previously available key,
+125,Learnova,B,B,True,False,True,False,B,previously available key,
+126,Learnova,B,B,True,False,True,False,B,previously available key,
+127,Learnova,B,B,True,False,True,False,B,previously available key,
+128,Learnova,C,C,True,False,True,False,C,previously available key,
+129,Learnova,A,A,True,False,True,False,A,previously available key,
+130,Learnova,A,A,True,False,True,False,A,publisher-answer-key-image-choices,
+131,Learnova,B,B,True,True,True,True,B,previously available key,
+132,Learnova,B,B,True,True,True,True,B,previously available key,
+133,Learnova,A,A,True,True,True,True,A,previously available key,
+134,Learnova,C,C,True,True,True,True,C,previously available key,
+135,Learnova,B,B,True,True,True,True,B,previously available key,
+136,Learnova,A,A,True,True,True,True,A,previously available key,
+137,Learnova,D,D,True,True,True,True,D,previously available key,
+138,Learnova,C,C,True,True,True,True,C,previously available key,
+139,Learnova,B,B,True,True,True,True,B,previously available key,
+140,Learnova,A,A,True,True,True,False,A,previously available key,
+141,Learnova,B,B,True,True,True,True,B,previously available key,
+142,Learnova,B,B,True,True,True,True,B,previously available key,
+143,Learnova,A,A,True,True,True,True,A,previously available key,
+144,Learnova,A,A,True,True,True,True,A,previously available key,
+145,Learnova,C,C,True,True,True,False,C,previously available key,
+146,Learnova,B,B,True,True,True,False,B,previously available key,
+147,Learnova,B,B,True,True,True,False,B,previously available key,
+148,Learnova,C,C,True,True,True,False,C,previously available key,
+149,Learnova,B,B,True,True,True,False,B,previously available key,
+150,Learnova,D,D,True,True,True,False,D,previously available key,
+151,Learnova,C,C,True,True,True,False,C,previously available key,
+152,Learnova,B,B,True,True,True,False,B,previously available key,
+153,Learnova,B,B,True,True,True,False,B,previously available key,
+154,Learnova,D,D,True,True,True,False,D,previously available key,
+155,Learnova,B,B,True,True,True,False,B,previously available key,
+156,Learnova,B,B,True,False,False,False,B,previously available key,Typographic source key: Correct Problem (B)
+157,Learnova,B,B,True,True,True,False,B,previously available key,
+158,Learnova,A,A,True,True,True,False,A,previously available key,
+159,Learnova,A,A,True,True,True,False,A,previously available key,
+160,Learnova,A,A,True,True,True,False,A,previously available key,
+161,Learnova,C,C,True,True,True,False,C,previously available key,
+162,Learnova,D,D,True,True,True,False,D,previously available key,
+163,Learnova,C,C,True,True,True,False,C,previously available key,
+164,Learnova,C,C,True,True,True,False,C,previously available key,
+165,Learnova,D,D,True,True,True,False,D,previously available key,
+166,Learnova,A,A,True,True,True,False,A,previously available key,
+167,Learnova,C,C,True,True,True,False,C,previously available key,
+168,Learnova,C,C,True,True,True,False,C,previously available key,
+169,Learnova,A,A,True,True,True,False,A,previously available key,
+170,Learnova,D,D,True,True,True,False,D,previously available key,
+171,Learnova,C,C,True,True,True,False,C,previously available key,
+172,Learnova,B,B,True,True,True,False,B,previously available key,
+173,Learnova,C,C,True,True,True,False,C,previously available key,
+174,Learnova,D,D,True,True,True,False,D,previously available key,
+175,Learnova,B,B,True,True,True,False,B,previously available key,
+176,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+177,Learnova,A,A,True,True,True,False,A,previously available key,
+178,Learnova,B,B,True,True,True,False,B,previously available key,
+179,Learnova,C,C,True,True,True,False,C,previously available key,
+180,Learnova,A,A,True,True,True,False,A,previously available key,
+181,Learnova,B,B,True,True,True,False,B,previously available key,
+182,Learnova,D,D,True,True,True,False,D,previously available key,
+183,Learnova,B,B,True,True,True,False,B,previously available key,
+184,Learnova,D,D,True,True,True,False,D,previously available key,
+185,Learnova,C,C,True,True,True,False,C,previously available key,
+186,Learnova,B,B,True,True,True,False,B,previously available key,
+187,Learnova,A,A,True,True,True,False,A,previously available key,
+188,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+189,Learnova,A,A,True,True,True,True,A,previously available key,
+190,Learnova,B,B,True,True,True,True,B,previously available key,
+191,Learnova,A,A,True,True,True,True,A,previously available key,
+192,Learnova,D,D,True,True,True,True,D,previously available key,
+193,Learnova,B,B,True,True,True,False,B,previously available key,
+194,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+195,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+196,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+197,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+198,Learnova,A,A,True,True,True,False,A,previously available key,
+199,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+200,Learnova,C,C,True,True,True,False,C,previously available key,
+201,Learnova,A,A,True,True,True,False,A,previously available key,
+202,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+203,Learnova,D,D,True,True,True,False,D,previously available key,
+204,Learnova,C,C,True,True,True,False,C,previously available key,
+205,Learnova,A,A,True,True,True,False,A,previously available key,
+206,Learnova,A,A,True,True,True,False,A,previously available key,
+207,Learnova,D,D,True,True,True,False,D,previously available key,
+208,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+209,Learnova,D,D,True,True,True,False,D,previously available key,
+210,Learnova,D,D,True,True,True,False,D,previously available key,
+211,Learnova,A,A,True,True,True,False,A,previously available key,
+212,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+213,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+214,Learnova,C,C,True,True,True,False,C,previously available key,
+215,Learnova,B,B,True,True,True,False,B,previously available key,
+216,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+217,Learnova,C,C,True,True,True,False,C,previously available key,
+218,Learnova,,A,,True,False,False,A,publisher-answer-key-image-choices,No printed option letter; mathematically matched choice A from original figure
+219,Learnova,B,B,True,True,False,False,B,previously available key,Publisher key punctuation B.
+220,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+221,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+222,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+223,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+224,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+225,Learnova,B,B,True,True,True,False,B,previously available key,
+226,Learnova,A,A,True,True,True,False,A,previously available key,
+227,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+228,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+229,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+230,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+231,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+232,Learnova,B,B,True,True,True,False,B,previously available key,
+233,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+234,Learnova,C,C,True,True,True,False,C,previously available key,
+235,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+236,Learnova,D,D,True,True,True,False,D,previously available key,
+237,Learnova,C,C,True,True,True,False,C,previously available key,
+238,Learnova,C,C,True,True,True,False,C,previously available key,
+239,Learnova,C,C,True,True,True,False,C,previously available key,
+240,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+241,Learnova,D,D,True,True,True,False,D,previously available key,
+242,Learnova,B,B,True,True,True,False,B,previously available key,
+243,Learnova,D,D,True,True,True,False,D,previously available key,
+244,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+245,Learnova,B,B,True,True,True,False,B,previously available key,
+246,Learnova,B,B,True,True,True,False,B,previously available key,
+247,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+248,Learnova,D,D,True,True,True,False,D,previously available key,
+249,Learnova,C,C,True,True,True,False,C,previously available key,
+250,Learnova,C,C,True,True,True,False,C,previously available key,
+251,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+252,Learnova,B,B,True,True,True,False,B,previously available key,
+253,Learnova,D,D,True,True,True,False,D,previously available key,
+254,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+255,Learnova,C,C,True,True,True,False,C,previously available key,
+256,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+257,Learnova,A,A,True,True,True,False,A,previously available key,
+258,Learnova,A,A,True,True,True,False,A,previously available key,
+259,Learnova,D,D,True,True,True,False,D,previously available key,
+260,Learnova,C,C,True,True,True,False,C,previously available key,
+261,Learnova,D,D,True,True,True,False,D,previously available key,
+262,Learnova,A,A,True,True,True,False,A,previously available key,
+263,Learnova,A,A,True,True,True,False,A,previously available key,
+264,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+265,Learnova,B,B,True,True,True,False,B,previously available key,
+266,Learnova,A,A,True,True,True,False,A,previously available key,
+267,Learnova,B,B,True,True,True,False,B,previously available key,
+268,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+269,Learnova,C,C,True,True,True,False,C,previously available key,
+270,Learnova,A,A,True,True,True,False,A,previously available key,
+271,Learnova,D,D,True,True,True,False,D,previously available key,
+272,Learnova,B,B,True,True,True,False,B,previously available key,
+273,Learnova,B,B,True,True,True,False,B,previously available key,
+274,Learnova,B,B,True,True,True,False,B,previously available key,
+275,Learnova,A,A,True,True,True,False,A,previously available key,
+276,Learnova,A,B,False,True,True,True,B,previously available key,
+277,Learnova,B,A,False,True,True,True,A,previously available key,
+278,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+279,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+280,Learnova,B,B,True,True,True,False,B,previously available key,
+281,Learnova,B,B,True,True,True,False,B,previously available key,
+282,Learnova,A,A,True,True,True,False,A,previously available key,
+283,Learnova,B,B,True,True,True,False,B,previously available key,
+284,Learnova,A,A,True,True,True,False,A,previously available key,
+285,Learnova,B,B,True,True,True,False,B,previously available key,
+286,Learnova,C,C,True,True,True,False,C,previously available key,
+287,Learnova,A,A,True,True,True,False,A,previously available key,
+288,Learnova,A,A,True,True,True,False,A,previously available key,
+289,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+290,Learnova,D,D,True,True,True,False,D,previously available key,
+291,Learnova,B,B,True,True,True,False,B,previously available key,
+292,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+293,Learnova,C,C,True,True,True,False,C,previously available key,
+294,Learnova,B,B,True,True,True,False,B,previously available key,
+295,Learnova,D,D,True,True,True,False,D,previously available key,
+296,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+297,Learnova,D,D,True,True,True,False,D,previously available key,
+298,Learnova,B,B,True,True,True,False,B,previously available key,
+299,Learnova,D,D,True,True,True,False,D,previously available key,
+300,Learnova,A,A,True,True,True,False,A,previously available key,
+301,Learnova,D,D,True,True,True,False,D,previously available key,
+302,Learnova,C,C,True,True,True,False,C,previously available key,
+303,Learnova,D,D,True,True,True,False,D,previously available key,
+304,Learnova,A,A,True,True,True,False,A,previously available key,
+305,Learnova,B,B,True,True,True,False,B,previously available key,
+306,Learnova,B,B,True,True,True,False,B,previously available key,
+307,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+308,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+309,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+310,Learnova,B,B,True,True,True,False,B,previously available key,
+311,Learnova,C,C,True,True,True,False,C,previously available key,
+312,Learnova,A,A,True,True,True,False,A,previously available key,
+313,Learnova,A,A,True,True,True,False,A,previously available key,
+314,Learnova,C,C,True,True,True,False,C,previously available key,
+315,Learnova,C,C,True,True,True,False,C,previously available key,
+316,Learnova,B,B,True,True,True,False,B,previously available key,
+317,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+318,Learnova,C,C,True,True,True,False,C,previously available key,
+319,Learnova,C,C,True,True,True,False,C,previously available key,
+320,Learnova,A,A,True,True,True,False,A,previously available key,
+321,Learnova,B,B,True,True,True,False,B,previously available key,
+322,Learnova,C,C,True,True,True,False,C,previously available key,
+323,Learnova,B,B,True,True,True,False,B,previously available key,
+324,Learnova,C,C,True,True,True,False,C,previously available key,
+325,Learnova,D,D,True,True,True,False,D,previously available key,
+326,Learnova,D,D,True,True,True,False,D,previously available key,
+327,Learnova,C,C,True,True,True,False,C,previously available key,
+328,Learnova,B,B,True,True,True,False,B,previously available key,
+329,Learnova,C,C,True,True,True,False,C,previously available key,
+330,Learnova,A,A,True,True,True,False,A,previously available key,
+331,Learnova,C,C,True,True,True,False,C,previously available key,
+332,Learnova,A,A,True,True,True,False,A,previously available key,
+333,Learnova,D,D,True,True,True,False,D,previously available key,
+334,Learnova,A,A,True,True,True,False,A,previously available key,
+335,Learnova,C,C,True,True,True,False,C,previously available key,
+336,Learnova,D,D,True,True,True,False,D,previously available key,
+337,Learnova,A,A,True,True,True,False,A,previously available key,
+338,Learnova,A,A,True,True,True,False,A,previously available key,
+339,Learnova,C,C,True,True,True,False,C,previously available key,
+340,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+341,Learnova,A,A,True,True,True,False,A,previously available key,
+342,Learnova,D,D,True,True,True,False,D,previously available key,
+343,Learnova,B,B,True,True,True,False,B,previously available key,
+344,Learnova,C,C,True,True,True,False,C,previously available key,
+345,Learnova,B,B,True,True,True,False,B,previously available key,
+346,Learnova,A,A,True,True,True,False,A,previously available key,
+347,Learnova,B,B,True,True,True,False,B,previously available key,
+348,Learnova,A,A,True,True,True,False,A,previously available key,
+349,Learnova,C,C,True,True,True,False,C,previously available key,
+350,Learnova,D,D,True,True,True,False,D,previously available key,
+351,Learnova,C,C,True,True,True,False,C,previously available key,
+352,Learnova,A,A,True,True,True,False,A,previously available key,
+353,Learnova,A,A,True,True,True,False,A,previously available key,
+354,Learnova,D,D,True,True,True,False,D,previously available key,
+355,Learnova,B,B,True,True,True,False,B,previously available key,
+356,Learnova,C,C,True,True,True,False,C,previously available key,
+357,Learnova,D,D,True,True,True,False,D,previously available key,
+358,Learnova,A,A,True,True,True,False,A,previously available key,
+359,Learnova,B,B,True,True,True,False,B,previously available key,
+360,Learnova,B,B,True,True,True,False,B,previously available key,
+361,Learnova,A,A,True,True,True,False,A,previously available key,
+362,Learnova,D,D,True,True,True,False,D,previously available key,
+363,Learnova,C,C,True,True,True,False,C,previously available key,
+364,Learnova,B,B,True,True,True,False,B,previously available key,
+365,Learnova,C,C,True,True,True,False,C,previously available key,
+366,Learnova,B,B,True,True,True,False,B,previously available key,
+367,Learnova,A,A,True,True,True,False,A,previously available key,
+368,Learnova,A,A,True,True,True,False,A,previously available key,
+369,Learnova,C,C,True,True,True,False,C,previously available key,
+370,Learnova,A,A,True,True,True,False,A,previously available key,
+371,Learnova,A,A,True,True,True,False,A,previously available key,
+372,Learnova,D,D,True,True,True,False,D,previously available key,
+373,Learnova,C,C,True,True,True,False,C,previously available key,
+374,Learnova,B,B,True,True,True,False,B,previously available key,
+375,Learnova,A,A,True,True,True,False,A,previously available key,
+376,Learnova,B,B,True,True,True,False,B,previously available key,
+377,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+378,Learnova,A,A,True,True,True,False,A,previously available key,
+379,Learnova,A,A,True,True,True,False,A,previously available key,
+380,Learnova,A,A,True,True,True,False,A,previously available key,
+381,Learnova,D,D,True,True,True,False,D,previously available key,
+382,Learnova,B,B,True,True,True,False,B,previously available key,
+383,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+384,Learnova,B,B,True,True,True,False,B,previously available key,
+385,Learnova,B,B,True,True,True,False,B,previously available key,
+386,Learnova,A,A,True,True,True,False,A,previously available key,
+387,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+388,Learnova,C,C,True,True,True,False,C,previously available key,
+389,Learnova,B,B,True,True,True,False,B,previously available key,
+390,Learnova,D,D,True,True,True,False,D,previously available key,
+391,Learnova,B,B,True,True,True,False,B,previously available key,
+392,Learnova,B,B,True,True,True,False,B,previously available key,
+393,Learnova,D,D,True,True,True,False,D,previously available key,
+394,Learnova,C,C,True,True,True,False,C,previously available key,
+395,Learnova,A,A,True,True,True,False,A,previously available key,
+396,Learnova,C,C,True,True,True,False,C,previously available key,
+397,Learnova,A,A,True,True,True,False,A,previously available key,
+398,Learnova,B,B,True,True,True,False,B,previously available key,
+399,Learnova,D,D,True,True,True,False,D,previously available key,
+400,Learnova,C,C,True,True,True,False,C,previously available key,
+401,Learnova,C,C,True,True,True,False,C,previously available key,
+402,Learnova,B,B,True,True,True,False,B,previously available key,
+403,Learnova,A,A,True,True,True,False,A,previously available key,
+404,Learnova,A,A,True,True,True,False,A,previously available key,
+405,Learnova,A,A,True,True,True,False,A,previously available key,
+406,Learnova,C,C,True,True,True,False,C,previously available key,
+407,Learnova,B,B,True,True,True,False,B,previously available key,
+408,Learnova,A,A,True,True,True,False,A,previously available key,
+409,Learnova,D,D,True,True,True,False,D,previously available key,
+410,Learnova,C,C,True,True,True,False,C,previously available key,
+411,Learnova,A,A,True,True,True,False,A,previously available key,
+412,Learnova,C,C,True,True,True,False,C,previously available key,
+413,Learnova,A,A,True,True,True,False,A,previously available key,
+414,Learnova,D,D,True,True,True,False,D,previously available key,
+415,Learnova,C,C,True,True,True,False,C,previously available key,
+416,Learnova,D,D,True,True,True,False,D,previously available key,
+417,Learnova,A,A,True,True,True,False,A,previously available key,
+418,Learnova,C,C,True,True,True,False,C,previously available key,
+419,Learnova,B,B,True,True,True,False,B,previously available key,
+420,Learnova,C,C,True,True,True,False,C,previously available key,
+421,Learnova,A,A,True,True,True,False,A,previously available key,
+422,Learnova,A,A,True,True,True,False,A,previously available key,
+423,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+424,Learnova,B,B,True,True,True,False,B,previously available key,
+425,Learnova,D,D,True,True,True,False,D,previously available key,
+426,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+427,Learnova,C,C,True,True,True,False,C,previously available key,
+428,Learnova,A,A,True,True,True,False,A,previously available key,
+429,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+430,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+431,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+432,Learnova,B,B,True,True,True,False,B,previously available key,
+433,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+434,Learnova,A,A,True,True,True,False,A,previously available key,
+435,Learnova,D,D,True,True,True,False,D,previously available key,
+436,Learnova,C,C,True,True,True,False,C,previously available key,
+437,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+438,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+439,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+440,Learnova,B,B,True,True,True,False,B,previously available key,
+441,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+442,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+443,Learnova,B,B,True,True,True,False,B,previously available key,
+444,Learnova,B,B,True,True,True,False,B,previously available key,
+445,Learnova,B,B,True,True,True,False,B,previously available key,
+446,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+447,Learnova,C,C,True,True,True,False,C,previously available key,
+448,Learnova,C,C,True,True,True,False,C,previously available key,
+449,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+450,Learnova,D,D,True,True,True,False,D,previously available key,
+451,Learnova,D,D,True,True,True,False,D,previously available key,
+452,Learnova,C,C,True,True,True,False,C,previously available key,
+453,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+454,Learnova,B,B,True,True,True,False,B,previously available key,
+455,Learnova,C,C,True,True,True,False,C,previously available key,
+456,Learnova,C,C,True,True,True,False,C,previously available key,
+457,Learnova,B,B,True,True,True,False,B,previously available key,
+458,Learnova,B,B,True,True,True,False,B,previously available key,
+459,Learnova,A,A,True,True,True,False,A,previously available key,
+460,Learnova,C,C,True,True,True,False,C,previously available key,
+461,Learnova,C,C,True,True,True,False,C,previously available key,
+462,Learnova,A,A,True,True,True,False,A,previously available key,
+463,Learnova,C,C,True,True,True,False,C,previously available key,
+464,Learnova,B,B,True,True,True,False,B,previously available key,
+465,Learnova,B,B,True,True,True,False,B,previously available key,
+466,Learnova,A,A,True,True,True,False,A,previously available key,
+467,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+468,Learnova,B,B,True,True,True,False,B,previously available key,
+469,Learnova,A,A,True,True,True,False,A,previously available key,
+470,Learnova,D,D,True,True,True,False,D,previously available key,
+471,Learnova,C,C,True,True,True,False,C,previously available key,
+472,Learnova,A,A,True,True,True,False,A,previously available key,
+473,Learnova,C,C,True,True,True,False,C,previously available key,
+474,Learnova,A,A,True,True,True,False,A,previously available key,
+475,Learnova,A,A,True,True,True,False,A,previously available key,
+476,Learnova,B,B,True,True,True,False,B,previously available key,
+477,Learnova,D,D,True,True,True,False,D,previously available key,
+478,Learnova,D,D,True,True,True,False,D,previously available key,
+479,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+480,Learnova,B,B,True,True,True,False,B,previously available key,
+481,Learnova,D,D,True,True,True,False,D,previously available key,
+482,Learnova,B,B,True,True,True,False,B,previously available key,
+483,Learnova,A,A,True,True,True,False,A,previously available key,
+484,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+485,Learnova,B,B,True,True,True,False,B,previously available key,
+486,Learnova,D,D,True,True,True,False,D,previously available key,
+487,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+488,Learnova,C,C,True,True,True,False,C,previously available key,
+489,Learnova,B,B,True,True,True,False,B,previously available key,
+490,Learnova,A,A,True,True,True,False,A,previously available key,
+491,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+492,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+493,Learnova,D,D,True,True,True,False,D,previously available key,
+494,Learnova,C,C,True,True,True,False,C,previously available key,
+495,Learnova,A,A,True,True,True,False,A,previously available key,
+496,Learnova,A,A,True,True,True,False,A,previously available key,
+497,Learnova,A,A,True,True,True,False,A,previously available key,
+498,Learnova,B,B,True,True,True,False,B,previously available key,
+499,Learnova,A,A,True,True,True,False,A,previously available key,
+500,Learnova,D,D,True,True,True,False,D,previously available key,
+501,Learnova,B,B,True,True,True,False,B,previously available key,
+502,Learnova,D,D,True,True,True,False,D,previously available key,
+503,Learnova,B,B,True,True,True,False,B,previously available key,
+504,Learnova,A,A,True,True,True,False,A,previously available key,
+505,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+506,Learnova,C,C,True,True,True,False,C,previously available key,
+507,Learnova,A,A,True,True,True,False,A,previously available key,
+508,Learnova,C,C,True,True,True,False,C,previously available key,
+509,Learnova,B,B,True,True,True,False,B,previously available key,
+510,Learnova,B,B,True,True,True,False,B,previously available key,
+511,Learnova,C,C,True,True,True,False,C,previously available key,
+512,Learnova,B,B,True,True,True,False,B,previously available key,
+513,Learnova,C,C,True,True,True,False,C,previously available key,
+514,Learnova,A,A,True,True,True,False,A,previously available key,
+515,Learnova,B,B,True,True,True,False,B,previously available key,
+516,Learnova,A,A,True,True,True,False,A,previously available key,
+517,Learnova,C,C,True,True,True,False,C,previously available key,
+518,Learnova,A,A,True,True,True,False,A,previously available key,
+519,Learnova,A,A,True,True,True,False,A,previously available key,
+520,Learnova,B,B,True,True,True,False,B,previously available key,
+521,Learnova,C,C,True,True,True,False,C,previously available key,
+522,Learnova,D,D,True,True,True,False,D,previously available key,
+523,Learnova,A,A,True,True,True,False,A,previously available key,
+524,Learnova,C,C,True,True,True,False,C,previously available key,
+525,Learnova,B,B,True,True,True,False,B,previously available key,
+526,Learnova,C,C,True,True,True,False,C,previously available key,
+527,Learnova,A,A,True,True,True,False,A,previously available key,
+528,Learnova,B,B,True,True,True,False,B,previously available key,
+529,Learnova,D,D,True,True,True,False,D,previously available key,
+530,Learnova,A,A,True,True,True,False,A,previously available key,
+531,Learnova,C,C,True,True,True,False,C,previously available key,
+532,Learnova,B,B,True,True,True,False,B,previously available key,
+533,Learnova,A,A,True,True,True,False,A,previously available key,
+534,Learnova,D,D,True,True,True,False,D,previously available key,
+535,Learnova,A,A,True,True,True,False,A,previously available key,
+536,Learnova,B,B,True,True,True,False,B,previously available key,
+537,Learnova,A,A,True,True,True,False,A,previously available key,
+538,Learnova,C,C,True,True,True,False,C,previously available key,
+539,Learnova,A,A,True,True,True,False,A,previously available key,
+540,Learnova,D,D,True,True,True,False,D,previously available key,
+541,Learnova,A,A,True,True,True,False,A,previously available key,
+542,Learnova,C,C,True,True,True,False,C,previously available key,
+543,Learnova,B,B,True,True,True,False,B,previously available key,
+544,Learnova,A,A,True,True,True,False,A,previously available key,
+545,Learnova,D,D,True,True,True,False,D,previously available key,
+546,Learnova,A,A,True,True,True,False,A,previously available key,
+547,Learnova,B,B,True,True,True,False,B,previously available key,
+548,Learnova,A,A,True,True,True,False,A,previously available key,
+549,Learnova,D,D,True,True,True,False,D,previously available key,
+550,Learnova,A,A,True,True,True,False,A,previously available key,
+551,Learnova,A,A,True,True,True,False,A,previously available key,
+552,Learnova,C,C,True,True,True,False,C,previously available key,
+553,Learnova,A,A,True,True,True,False,A,previously available key,
+554,Learnova,B,B,True,True,True,False,B,previously available key,
+555,Learnova,D,D,True,True,True,False,D,previously available key,
+556,Learnova,C,C,True,True,True,False,C,previously available key,
+557,Learnova,A,A,True,True,True,False,A,previously available key,
+558,Learnova,B,B,True,True,True,False,B,previously available key,
+559,Learnova,A,A,True,True,True,False,A,previously available key,
+560,Learnova,B,B,True,True,True,False,B,previously available key,
+561,Learnova,C,C,True,True,True,False,C,previously available key,
+562,Learnova,D,D,True,True,True,False,D,previously available key,
+563,Learnova,B,B,True,True,True,False,B,previously available key,
+564,Learnova,A,A,True,True,True,False,A,previously available key,
+565,Learnova,C,C,True,True,True,False,C,previously available key,
+566,Learnova,B,B,True,True,True,False,B,previously available key,
+567,Learnova,D,D,True,True,True,False,D,previously available key,
+568,Learnova,A,A,True,True,True,False,A,previously available key,
+569,Learnova,D,D,True,True,True,False,D,previously available key,
+570,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+571,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+572,Learnova,B,B,True,True,True,False,B,previously available key,
+573,Learnova,B,B,True,True,True,False,B,previously available key,
+574,Learnova,A,A,True,True,True,False,A,previously available key,
+575,Learnova,B,B,True,True,True,False,B,previously available key,
+576,Learnova,A,A,True,True,True,False,A,previously available key,
+577,Learnova,A,A,True,True,True,False,A,previously available key,
+578,Learnova,B,B,True,True,True,False,B,previously available key,
+579,Learnova,C,C,True,True,True,False,C,previously available key,
+580,Learnova,B,B,True,True,True,False,B,previously available key,
+581,Learnova,A,A,True,True,True,False,A,previously available key,
+582,Learnova,A,A,True,True,True,False,A,previously available key,
+583,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+584,Learnova,A,A,True,True,True,False,A,previously available key,
+585,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+586,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+587,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+588,Learnova,B,B,True,True,True,False,B,previously available key,
+589,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+590,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+591,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+592,Learnova,A,A,True,True,True,False,A,previously available key,
+593,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+594,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+595,Learnova,D,D,True,True,True,False,D,previously available key,
+596,Learnova,B,B,True,True,True,False,B,previously available key,
+597,Learnova,B,B,True,True,True,False,B,previously available key,
+598,Learnova,A,A,True,True,True,False,A,previously available key,
+599,Learnova,D,D,True,True,True,False,D,previously available key,
+600,Learnova,C,C,True,True,True,False,C,previously available key,
+601,Learnova,A,A,True,True,True,False,A,previously available key,
+602,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+603,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+604,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+605,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+606,Learnova,B,B,True,True,True,False,B,previously available key,
+607,Learnova,A,A,True,True,True,False,A,previously available key,
+608,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+609,Learnova,B,B,True,True,True,False,B,previously available key,
+610,Learnova,C,C,True,True,True,False,C,previously available key,
+611,Learnova,A,A,True,True,True,False,A,previously available key,
+612,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+613,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+614,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+615,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+616,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+617,Learnova,B,B,True,True,True,False,B,previously available key,
+618,Learnova,B,B,True,True,True,False,B,previously available key,
+619,Learnova,C,C,True,True,True,False,C,previously available key,
+620,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+621,Learnova,B,B,True,True,True,False,B,previously available key,
+622,Learnova,D,D,True,True,True,False,D,previously available key,
+623,Learnova,B,B,True,True,True,False,B,previously available key,
+624,Learnova,A,A,True,True,True,False,A,previously available key,
+625,Learnova,C,C,True,True,True,False,C,previously available key,
+626,Learnova,B,B,True,True,True,False,B,previously available key,
+627,Learnova,C,C,True,True,True,False,C,previously available key,
+628,Learnova,B,B,True,True,True,False,B,previously available key,
+629,Learnova,D,D,True,True,True,False,D,previously available key,
+630,Learnova,B,B,True,True,True,False,B,previously available key,
+631,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+632,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+633,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+634,Learnova,D,D,True,True,True,False,D,previously available key,
+635,Learnova,B,B,True,True,True,False,B,previously available key,
+636,Learnova,B,B,True,True,True,False,B,previously available key,
+637,Learnova,A,A,True,True,True,False,A,previously available key,
+638,Learnova,B,B,True,True,True,False,B,previously available key,
+639,Learnova,A,A,True,True,True,False,A,previously available key,
+640,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+641,Learnova,D,D,True,True,True,False,D,previously available key,
+642,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+643,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+644,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+645,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+646,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+647,Learnova,B,B,True,True,True,False,B,previously available key,
+648,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+649,Learnova,D,D,True,True,True,False,D,previously available key,
+650,Learnova,B,B,True,True,True,False,B,previously available key,
+651,Learnova,B,B,True,True,True,False,B,previously available key,
+652,Learnova,B,B,True,True,True,False,B,previously available key,
+653,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+654,Learnova,C,C,True,True,True,False,C,previously available key,
+655,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+656,Learnova,A,A,True,True,True,False,A,previously available key,
+657,Learnova,A,A,True,True,True,False,A,previously available key,
+658,Learnova,C,C,True,True,True,False,C,previously available key,
+659,Learnova,B,B,True,True,True,False,B,previously available key,
+660,Learnova,B,B,True,True,True,False,B,previously available key,
+661,Learnova,A,A,True,True,True,False,A,previously available key,
+662,Learnova,B,B,True,True,True,False,B,previously available key,
+663,Learnova,C,C,True,True,True,False,C,previously available key,
+664,Learnova,D,D,True,True,True,False,D,previously available key,
+665,Learnova,C,C,True,True,True,False,C,previously available key,
+666,Learnova,A,A,True,True,True,False,A,previously available key,
+667,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+668,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+669,Learnova,D,D,True,True,True,False,D,previously available key,
+670,Learnova,B,B,True,True,True,False,B,previously available key,
+671,Learnova,B,B,True,True,True,False,B,previously available key,
+672,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+673,Learnova,A,A,True,True,True,False,A,previously available key,
+674,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+675,Learnova,B,B,True,True,True,False,B,previously available key,
+676,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+677,Learnova,B,B,True,True,True,False,B,previously available key,
+678,Learnova,A,A,True,True,True,False,A,previously available key,
+679,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+680,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+681,Learnova,A,A,True,True,True,False,A,previously available key,
+682,Learnova,B,B,True,True,True,False,B,previously available key,
+683,Learnova,A,A,True,True,True,False,A,previously available key,
+684,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+685,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+686,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+687,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+688,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+689,Learnova,A,A,True,True,True,False,A,previously available key,
+690,Learnova,A,A,True,True,True,False,A,previously available key,
+691,Learnova,A,A,True,True,True,False,A,previously available key,
+692,Learnova,C,C,True,True,True,False,C,previously available key,
+693,Learnova,B,B,True,True,True,False,B,previously available key,
+694,Learnova,B,B,True,True,True,False,B,previously available key,
+695,Learnova,A,A,True,True,True,False,A,previously available key,
+696,Learnova,C,C,True,True,True,False,C,previously available key,
+697,Learnova,B,B,True,True,True,False,B,previously available key,
+698,Learnova,B,B,True,True,True,False,B,previously available key,
+699,Learnova,C,C,True,True,True,False,C,previously available key,
+700,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+701,Learnova,C,C,True,True,True,False,C,previously available key,
+702,Learnova,A,A,True,True,True,False,A,previously available key,
+703,Learnova,C,C,True,True,True,False,C,previously available key,
+704,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+705,Learnova,B,B,True,True,True,False,B,previously available key,
+706,Learnova,C,C,True,True,True,False,C,previously available key,
+707,Learnova,C,C,True,True,True,False,C,previously available key,
+708,Learnova,A,A,True,True,True,False,A,previously available key,
+709,Learnova,B,B,True,True,True,False,B,previously available key,
+710,Learnova,B,B,True,True,True,False,B,previously available key,
+711,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+712,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+713,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+714,Learnova,A,A,True,True,True,False,A,previously available key,
+715,Learnova,C,C,True,True,True,False,C,previously available key,
+716,Learnova,C,C,True,True,True,False,C,previously available key,
+717,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+718,Learnova,C,C,True,True,True,False,C,previously available key,
+719,Learnova,B,B,True,True,True,False,B,previously available key,
+720,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+721,Learnova,D,D,True,True,True,False,D,previously available key,
+722,Learnova,B,B,True,True,True,False,B,previously available key,
+723,Learnova,C,C,True,True,True,False,C,previously available key,
+724,Learnova,C,C,True,True,True,False,C,previously available key,
+725,Learnova,B,B,True,True,True,False,B,previously available key,
+726,Learnova,A,A,True,True,True,False,A,previously available key,
+727,Learnova,B,B,True,True,True,False,B,previously available key,
+728,Learnova,B,B,True,True,True,False,B,previously available key,
+729,Learnova,B,B,True,True,True,False,B,previously available key,
+730,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+731,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+732,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+733,Learnova,B,B,True,True,True,False,B,previously available key,
+734,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+735,Learnova,C,C,True,True,True,False,C,previously available key,
+736,Learnova,A,A,True,True,True,False,A,previously available key,
+737,Learnova,A,A,True,True,True,False,A,previously available key,
+738,Learnova,B,B,True,True,True,False,B,previously available key,
+739,Learnova,C,C,True,True,True,False,C,previously available key,
+740,Learnova,B,B,True,True,True,False,B,previously available key,
+741,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+742,Learnova,D,D,True,True,True,False,D,previously available key,
+743,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+744,Learnova,B,B,True,True,True,False,B,previously available key,
+745,Learnova,B,B,True,True,True,False,B,previously available key,
+746,Learnova,A,A,True,True,True,False,A,previously available key,
+747,Learnova,A,A,True,True,True,False,A,previously available key,
+748,Learnova,C,C,True,True,True,False,C,previously available key,
+749,Learnova,B,B,True,True,True,False,B,previously available key,
+750,Learnova,C,C,True,True,True,False,C,previously available key,
+751,Learnova,B,B,True,True,True,False,B,previously available key,
+752,Learnova,C,C,True,True,True,False,C,previously available key,
+753,Learnova,C,C,True,True,True,False,C,previously available key,
+754,Learnova,B,B,True,True,True,False,B,previously available key,
+755,Learnova,C,C,True,True,True,False,C,previously available key,
+756,Learnova,A,A,True,True,True,False,A,previously available key,
+757,Learnova,D,D,True,True,True,False,D,previously available key,
+758,Learnova,B,B,True,True,True,False,B,previously available key,
+759,Learnova,C,C,True,True,True,False,C,previously available key,
+760,Learnova,A,A,True,True,True,False,A,previously available key,
+761,Learnova,A,A,True,True,True,False,A,previously available key,
+762,Learnova,C,C,True,True,True,False,C,previously available key,
+763,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+764,Learnova,B,B,True,True,True,False,B,previously available key,
+765,Learnova,C,C,True,True,True,False,C,previously available key,
+766,Learnova,B,B,True,True,True,False,B,previously available key,
+767,Learnova,D,D,True,True,True,False,D,previously available key,
+768,Learnova,A,A,True,True,True,False,A,previously available key,
+769,Learnova,B,B,True,True,True,False,B,previously available key,
+770,Learnova,B,B,True,True,True,False,B,previously available key,
+771,Learnova,D,D,True,True,True,False,D,previously available key,
+772,Learnova,B,B,True,True,True,False,B,previously available key,
+773,Learnova,A,A,True,True,True,False,A,previously available key,
+774,Learnova,A,A,True,True,True,False,A,previously available key,
+775,Learnova,A,A,True,True,True,False,A,previously available key,
+776,Learnova,A,A,True,True,True,False,A,previously available key,
+777,Learnova,A,A,True,True,True,False,A,previously available key,
+778,Learnova,B,B,True,True,True,False,B,previously available key,
+779,Learnova,C,C,True,True,True,False,C,previously available key,
+780,Learnova,D,D,True,True,True,False,D,previously available key,
+781,Learnova,D,D,True,True,True,False,D,previously available key,
+782,Learnova,B,B,True,True,True,False,B,previously available key,
+783,Learnova,C,C,True,True,True,False,C,previously available key,
+784,Learnova,C,C,True,True,True,False,C,previously available key,
+785,Learnova,B,B,True,True,True,False,B,previously available key,
+786,Learnova,B,B,True,True,True,False,B,previously available key,
+787,Learnova,A,A,True,False,True,False,A,publisher-answer-key-image-choices,
+788,Learnova,C,C,True,True,True,False,C,previously available key,
+789,Learnova,A,A,True,True,True,False,A,previously available key,
+790,Learnova,A,A,True,True,True,False,A,previously available key,
+791,Learnova,C,C,True,True,True,False,C,previously available key,
+792,Learnova,B,B,True,True,True,False,B,previously available key,
+793,Learnova,A,A,True,True,True,False,A,previously available key,
+794,Learnova,B,B,True,True,True,False,B,previously available key,
+795,Learnova,B,B,True,True,True,False,B,previously available key,
+796,Learnova,B,B,True,True,True,False,B,previously available key,
+797,Learnova,C,C,True,True,True,False,C,previously available key,
+798,Learnova,B,B,True,True,True,False,B,previously available key,
+799,Learnova,A,A,True,True,True,False,A,previously available key,
+800,Learnova,C,C,True,True,True,False,C,previously available key,
+801,Learnova,A,A,True,True,True,False,A,previously available key,
+802,Learnova,C,C,True,True,True,False,C,previously available key,
+803,Learnova,A,A,True,True,True,False,A,previously available key,
+804,Learnova,B,B,True,True,True,False,B,previously available key,
+805,Learnova,C,C,True,True,True,False,C,previously available key,
+806,Learnova,A,A,True,True,True,False,A,previously available key,
+807,Learnova,D,D,True,True,True,False,D,previously available key,
+808,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+809,Learnova,B,B,True,True,True,False,B,previously available key,
+810,Learnova,A,A,True,True,True,False,A,previously available key,
+811,Learnova,B,B,True,True,True,False,B,previously available key,
+812,Learnova,B,B,True,True,True,False,B,previously available key,
+813,Learnova,A,A,True,True,True,False,A,previously available key,
+814,Learnova,D,D,True,True,True,False,D,previously available key,
+815,Learnova,D,D,True,True,True,False,D,previously available key,
+816,Learnova,D,D,True,True,True,False,D,previously available key,
+817,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+818,Learnova,A,A,True,True,True,False,A,previously available key,
+819,Learnova,C,C,True,True,True,False,C,previously available key,
+820,Learnova,B,B,True,True,True,False,B,previously available key,
+821,Learnova,D,D,True,True,True,False,D,previously available key,
+822,Learnova,B,B,True,True,True,False,B,previously available key,
+823,Learnova,A,A,True,True,True,False,A,previously available key,
+824,Learnova,D,D,True,True,True,False,D,previously available key,
+825,Learnova,C,C,True,True,True,False,C,previously available key,
+826,Learnova,C,C,True,True,True,False,C,previously available key,
+827,Learnova,B,B,True,True,True,False,B,previously available key,
+828,Learnova,D,D,True,True,True,False,D,previously available key,
+829,Learnova,C,C,True,True,True,False,C,previously available key,
+830,Learnova,D,D,True,True,True,False,D,previously available key,
+831,Learnova,C,C,True,True,True,False,C,previously available key,
+832,Learnova,B,B,True,True,True,False,B,previously available key,
+833,Learnova,B,B,True,True,True,False,B,previously available key,
+834,Learnova,D,D,True,True,True,False,D,previously available key,
+835,Learnova,C,C,True,True,True,False,C,previously available key,
+836,Learnova,D,D,True,True,True,False,D,previously available key,
+837,Learnova,B,B,True,True,True,False,B,previously available key,
+838,Learnova,B,B,True,True,True,False,B,previously available key,
+839,Learnova,A,A,True,True,True,False,A,previously available key,
+840,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+841,Learnova,B,B,True,True,True,False,B,previously available key,
+842,Learnova,A,A,True,True,True,False,A,previously available key,
+843,Learnova,D,D,True,True,True,False,D,previously available key,
+844,Learnova,A,A,True,True,True,False,A,previously available key,
+845,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+846,Learnova,C,C,True,True,True,False,C,previously available key,
+847,Learnova,C,C,True,True,True,False,C,previously available key,
+848,Learnova,C,C,True,True,True,False,C,previously available key,
+849,Learnova,C,C,True,True,True,False,C,previously available key,
+850,Learnova,B,B,True,True,True,False,B,previously available key,
+851,Learnova,D,D,True,True,True,False,D,previously available key,
+852,Learnova,B,B,True,True,True,False,B,previously available key,
+853,Learnova,C,C,True,True,True,False,C,previously available key,
+854,Learnova,C,C,True,True,True,False,C,previously available key,
+855,Learnova,A,A,True,True,True,False,A,previously available key,
+856,Learnova,A,A,True,True,True,False,A,previously available key,
+857,Learnova,B,B,True,True,True,False,B,previously available key,
+858,Learnova,B,B,True,True,True,False,B,previously available key,
+859,Learnova,A,A,True,True,True,False,A,previously available key,
+860,Learnova,C,C,True,True,True,False,C,previously available key,
+861,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+862,Learnova,C,C,True,True,True,False,C,previously available key,
+863,Learnova,C,C,True,True,True,False,C,previously available key,
+864,Learnova,B,B,True,True,True,False,B,previously available key,
+865,Learnova,A,A,True,True,True,False,A,previously available key,
+866,Learnova,C,C,True,True,True,False,C,previously available key,
+867,Learnova,C,C,True,True,True,False,C,previously available key,
+868,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+869,Learnova,B,B,True,True,True,False,B,previously available key,
+870,Learnova,D,D,True,True,True,False,D,previously available key,
+871,Learnova,C,C,True,True,True,False,C,previously available key,
+872,Learnova,B,B,True,True,True,False,B,previously available key,
+873,Learnova,B,B,True,True,True,False,B,previously available key,
+874,Learnova,C,C,True,True,True,False,C,previously available key,
+875,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+876,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+877,Learnova,A,A,True,True,True,False,A,previously available key,
+878,Learnova,B,B,True,True,True,False,B,previously available key,
+879,Learnova,D,D,True,True,True,False,D,previously available key,
+880,Learnova,B,B,True,True,True,False,B,previously available key,
+881,Learnova,A,A,True,True,True,False,A,previously available key,
+882,Learnova,C,C,True,True,True,False,C,previously available key,
+883,Learnova,B,B,True,True,True,False,B,previously available key,
+884,Learnova,D,D,True,True,True,False,D,previously available key,
+885,Learnova,B,B,True,True,True,False,B,previously available key,
+886,Learnova,B,B,True,True,True,False,B,previously available key,
+887,Learnova,D,D,True,True,True,False,D,previously available key,
+888,Learnova,B,B,True,True,True,False,B,previously available key,
+889,Learnova,A,A,True,True,True,False,A,previously available key,
+890,Learnova,C,C,True,True,True,False,C,previously available key,
+891,Learnova,A,A,True,True,True,False,A,previously available key,
+892,Learnova,D,D,True,True,True,False,D,previously available key,
+893,Learnova,B,B,True,True,True,False,B,previously available key,
+894,Learnova,B,B,True,True,True,False,B,previously available key,
+895,Learnova,A,A,True,True,True,False,A,previously available key,
+896,Learnova,C,C,True,True,True,False,C,previously available key,
+897,Learnova,C,C,True,True,True,False,C,previously available key,
+898,Learnova,A,A,True,True,True,False,A,previously available key,
+899,Learnova,B,B,True,True,True,False,B,previously available key,
+900,Learnova,B,B,True,True,True,False,B,previously available key,
+901,Learnova,D,D,True,True,True,False,D,previously available key,
+902,Learnova,C,C,True,True,True,False,C,previously available key,
+903,Learnova,C,C,True,True,True,False,C,previously available key,
+904,Learnova,A,A,True,True,True,False,A,previously available key,
+905,Learnova,B,B,True,True,True,False,B,previously available key,
+906,Learnova,D,D,True,True,True,False,D,previously available key,
+907,Learnova,D,D,True,True,True,False,D,previously available key,
+908,Learnova,B,B,True,True,True,False,B,previously available key,
+909,Learnova,A,A,True,True,True,False,A,previously available key,
+910,Learnova,B,B,True,True,True,False,B,previously available key,
+911,Learnova,C,C,True,True,True,False,C,previously available key,
+912,Learnova,B,B,True,True,True,False,B,previously available key,
+913,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+914,Learnova,B,B,True,True,True,False,B,previously available key,
+915,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+916,Learnova,D,D,True,True,True,False,D,previously available key,
+917,Learnova,A,A,True,True,True,False,A,previously available key,
+918,Learnova,A,A,True,True,True,False,A,previously available key,
+919,Learnova,C,C,True,True,True,False,C,previously available key,
+920,Learnova,A,A,True,True,True,False,A,previously available key,
+921,Learnova,A,A,True,True,True,False,A,previously available key,
+922,Learnova,A,A,True,True,True,False,A,previously available key,
+923,Learnova,D,D,True,True,True,False,D,previously available key,
+924,Learnova,C,C,True,True,True,False,C,previously available key,
+925,Learnova,D,D,True,True,True,False,D,previously available key,
+926,Learnova,C,C,True,True,True,False,C,previously available key,
+927,Learnova,A,A,True,True,True,False,A,previously available key,
+928,Learnova,D,D,True,True,True,False,D,previously available key,
+929,Learnova,C,C,True,True,True,False,C,previously available key,
+930,Learnova,B,B,True,True,True,False,B,previously available key,
+931,Learnova,D,D,True,True,True,False,D,previously available key,
+932,Learnova,D,D,True,True,True,False,D,previously available key,
+933,Learnova,D,D,True,True,True,False,D,previously available key,
+934,Learnova,B,B,True,True,True,False,B,previously available key,
+935,Learnova,D,D,True,True,True,False,D,previously available key,
+936,Learnova,B,B,True,True,True,False,B,previously available key,
+937,Learnova,B,B,True,True,True,False,B,previously available key,
+938,Learnova,B,B,True,True,True,False,B,previously available key,
+939,Learnova,B,B,True,True,True,False,B,previously available key,
+940,Learnova,C,C,True,True,True,False,C,previously available key,
+941,Learnova,C,C,True,True,True,False,C,previously available key,
+942,Learnova,C,C,True,True,True,False,C,previously available key,
+943,Learnova,B,B,True,True,True,False,B,previously available key,
+944,Learnova,B,B,True,True,True,False,B,previously available key,
+945,Learnova,B,B,True,True,True,False,B,previously available key,
+946,Learnova,B,B,True,True,True,False,B,previously available key,
+947,Learnova,C,C,True,True,True,False,C,previously available key,
+948,Learnova,A,A,True,True,True,False,A,previously available key,
+949,Learnova,B,B,True,True,True,False,B,previously available key,
+950,Learnova,A,A,True,True,True,False,A,previously available key,
+951,Learnova,B,B,True,True,True,False,B,previously available key,
+952,Learnova,B,B,True,True,True,False,B,previously available key,
+953,Learnova,B,B,True,True,True,False,B,previously available key,
+954,Learnova,A,A,True,True,True,False,A,previously available key,
+955,Learnova,B,B,True,True,True,False,B,previously available key,
+956,Learnova,D,D,True,True,True,False,D,previously available key,
+957,Learnova,B,B,True,True,True,False,B,previously available key,
+958,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+959,Learnova,B,B,True,True,True,False,B,previously available key,
+960,Learnova,A,A,True,True,True,False,A,previously available key,
+961,Learnova,B,B,True,True,True,False,B,previously available key,
+962,Learnova,B,B,True,True,True,False,B,previously available key,
+963,Learnova,A,A,True,True,True,False,A,previously available key,
+964,Learnova,C,C,True,True,True,False,C,previously available key,
+965,Learnova,D,D,True,True,True,False,D,previously available key,
+966,Learnova,A,A,True,True,True,False,A,previously available key,
+967,Learnova,C,C,True,True,True,False,C,previously available key,
+968,Learnova,B,B,True,True,True,False,B,previously available key,
+969,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+970,Learnova,B,B,True,True,True,False,B,previously available key,
+971,Learnova,C,C,True,True,True,False,C,previously available key,
+972,Learnova,A,A,True,True,True,False,A,previously available key,
+973,Learnova,B,B,True,True,True,False,B,previously available key,
+974,Learnova,C,C,True,True,True,False,C,previously available key,
+975,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+976,Learnova,A,A,True,True,True,False,A,previously available key,
+977,Learnova,B,B,True,True,True,False,B,previously available key,
+978,Learnova,C,C,True,True,True,False,C,previously available key,
+979,Learnova,B,B,True,True,True,False,B,previously available key,
+980,Learnova,B,B,True,True,True,False,B,previously available key,
+981,Learnova,B,B,True,True,True,False,B,previously available key,
+982,Learnova,A,A,True,True,True,False,A,previously available key,
+983,Learnova,B,B,True,True,True,False,B,previously available key,
+984,Learnova,B,B,True,True,True,False,B,previously available key,
+985,Learnova,D,D,True,True,True,False,D,previously available key,
+986,Learnova,B,B,True,True,True,False,B,previously available key,
+987,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+988,Learnova,A,A,True,True,True,False,A,previously available key,
+989,Learnova,B,B,True,True,True,False,B,previously available key,
+990,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+991,Learnova,C,C,True,True,True,False,C,previously available key,
+992,Learnova,A,A,True,True,True,False,A,previously available key,
+993,Learnova,B,B,True,True,True,False,B,previously available key,
+994,Learnova,A,A,True,True,True,False,A,previously available key,
+995,Learnova,C,C,True,True,True,False,C,previously available key,
+996,Learnova,D,D,True,True,True,False,D,previously available key,
+997,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+998,Learnova,C,C,True,True,True,False,C,previously available key,
+999,Learnova,C,C,True,True,True,False,C,previously available key,
+1000,Learnova,A,A,True,True,True,False,A,previously available key,
+1001,Learnova,D,D,True,True,True,False,D,previously available key,
+1002,Learnova,D,D,True,True,True,False,D,previously available key,
+1003,Learnova,C,C,True,True,True,False,C,previously available key,
+1004,Learnova,A,A,True,True,True,False,A,previously available key,
+1005,Learnova,C,C,True,True,True,False,C,previously available key,
+1006,Learnova,C,C,True,True,True,False,C,previously available key,
+1007,Learnova,A,A,True,True,True,False,A,previously available key,
+1008,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+1009,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+1010,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+1011,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+1012,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+1013,Learnova,B,B,True,True,True,False,B,previously available key,
+1014,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+1015,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+1016,Learnova,C,C,True,True,True,False,C,previously available key,
+1017,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+1018,Learnova,B,B,True,True,True,False,B,previously available key,
+1019,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+1020,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+1021,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+1022,Learnova,A,A,True,True,True,False,A,previously available key,
+1023,Learnova,A,A,True,True,True,False,A,previously available key,
+1024,Learnova,C,C,True,True,True,False,C,previously available key,
+1025,Learnova,C,C,True,True,True,False,C,previously available key,
+1026,Learnova,D,D,True,True,True,False,D,previously available key,
+1027,Learnova,A,A,True,True,True,False,A,previously available key,
+1028,Learnova,C,C,True,True,True,False,C,previously available key,
+1029,Learnova,B,B,True,True,True,False,B,previously available key,
+1030,Learnova,D,D,True,True,True,False,D,previously available key,
+1031,Learnova,D,D,True,True,True,False,D,previously available key,
+1032,Learnova,C,C,True,True,True,False,C,previously available key,
+1033,Learnova,B,B,True,True,True,False,B,previously available key,
+1034,Learnova,D,D,True,True,True,False,D,previously available key,
+1035,Learnova,A,A,True,True,True,False,A,previously available key,
+1036,Learnova,D,D,True,True,True,False,D,previously available key,
+1037,Learnova,A,A,True,True,True,False,A,previously available key,
+1038,Learnova,A,A,True,True,True,False,A,previously available key,
+1039,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+1040,Learnova,B,B,True,True,True,False,B,previously available key,
+1041,Learnova,B,B,True,True,True,False,B,previously available key,
+1042,Learnova,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+1043,Learnova,B,B,True,True,True,False,B,previously available key,
+1044,Learnova,C,C,True,True,True,False,C,previously available key,
+1045,Learnova,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+1046,Learnova,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+1047,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+1048,Learnova,B,B,True,True,True,False,B,previously available key,
+1049,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+1050,Learnova,C,C,True,True,True,False,C,previously available key,
+1051,Learnova,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+1052,Learnova,B,B,True,True,True,False,B,previously available key,
+E1-1,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-2,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-3,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-4,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-5,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-6,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-7,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-8,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-9,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-10,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-11,Learnova Exam 1,B,B,True,False,True,False,B,publisher-answer-key-image-choices,
+E1-12,Learnova Exam 1,B,B,True,False,True,False,B,publisher-answer-key-image-choices,
+E1-13,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-14,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-15,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-16,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-17,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-18,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-19,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-20,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-21,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-22,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-23,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-24,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-25,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-26,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-27,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-28,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-29,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-30,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-31,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-32,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-33,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-34,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-35,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-36,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-37,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-38,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-39,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-40,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-41,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-42,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-43,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-44,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-45,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-46,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-47,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-48,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-49,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-50,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-51,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-52,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-53,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-54,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-55,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-56,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-57,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-58,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-59,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-60,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-61,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-62,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-63,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-64,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-65,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-66,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-67,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-68,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-69,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-70,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-71,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-72,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-73,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-74,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-75,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-76,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-77,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-78,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-79,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-80,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-81,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-82,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-83,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-84,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-85,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-86,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-87,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-88,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-89,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-90,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-91,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-92,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-93,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-94,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-95,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-96,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-97,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-98,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-99,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-100,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-101,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-102,Learnova Exam 1,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E1-103,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-104,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-105,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-106,Learnova Exam 1,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E1-107,Learnova Exam 1,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E1-108,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-109,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E1-110,Learnova Exam 1,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-1,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-2,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-3,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-4,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-5,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-6,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-7,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-8,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-9,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-10,Learnova Exam 2,B,B,True,False,True,False,B,publisher-answer-key-image-choices,
+E2-11,Learnova Exam 2,B,B,True,False,True,False,B,publisher-answer-key-image-choices,
+E2-12,Learnova Exam 2,B,B,True,False,True,False,B,publisher-answer-key-image-choices,
+E2-13,Learnova Exam 2,B,B,True,False,True,False,B,publisher-answer-key-image-choices,
+E2-14,Learnova Exam 2,B,B,True,False,True,False,B,publisher-answer-key-image-choices,
+E2-15,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-16,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-17,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-18,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-19,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-20,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-21,Learnova Exam 2,B,B,True,True,False,False,B,publisher-answer-key-image-choices,Publisher key punctuation B.
+E2-22,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-23,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-24,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-25,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-26,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-27,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-28,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-29,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-30,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-31,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-32,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-33,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-34,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-35,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-36,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-37,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-38,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-39,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-40,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-41,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-42,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-43,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-44,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-45,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-46,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-47,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-48,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-49,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-50,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-51,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-52,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-53,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-54,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-55,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-56,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-57,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-58,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-59,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-60,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-61,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-62,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-63,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-64,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-65,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-66,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-67,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-68,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-69,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-70,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-71,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-72,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-73,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-74,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-75,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-76,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-77,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-78,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-79,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-80,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-81,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-82,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-83,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-84,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-85,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-86,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-87,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-88,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-89,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-90,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-91,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-92,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-93,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-94,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-95,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-96,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-97,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-98,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-99,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-100,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-101,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-102,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-103,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-104,Learnova Exam 2,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E2-105,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-106,Learnova Exam 2,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E2-107,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-108,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E2-109,Learnova Exam 2,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E2-110,Learnova Exam 2,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-1,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-2,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-3,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-4,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-5,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-6,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-7,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-8,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-9,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-10,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-11,Learnova Exam 3,B,B,True,False,True,False,B,publisher-answer-key-image-choices,
+E3-12,Learnova Exam 3,C,C,True,False,True,False,C,publisher-answer-key-image-choices,
+E3-13,Learnova Exam 3,C,C,True,False,True,False,C,publisher-answer-key-image-choices,
+E3-14,Learnova Exam 3,C,C,True,False,True,False,C,publisher-answer-key-image-choices,
+E3-15,Learnova Exam 3,B,B,True,False,True,False,B,publisher-answer-key-image-choices,
+E3-16,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-17,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-18,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-19,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-20,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-21,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-22,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-23,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-24,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-25,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-26,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-27,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-28,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-29,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-30,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-31,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-32,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-33,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-34,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-35,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-36,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-37,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-38,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-39,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-40,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-41,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-42,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-43,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-44,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-45,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-46,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-47,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-48,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-49,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-50,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-51,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-52,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-53,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-54,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-55,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-56,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-57,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-58,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-59,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-60,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-61,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-62,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-63,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-64,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-65,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-66,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-67,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-68,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-69,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-70,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-71,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-72,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-73,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-74,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-75,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-76,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-77,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-78,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-79,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-80,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-81,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-82,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-83,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-84,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-85,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-86,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-87,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-88,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-89,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-90,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-91,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-92,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-93,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-94,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-95,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-96,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-97,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-98,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-99,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-100,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-101,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-102,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-103,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-104,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E3-105,Learnova Exam 3,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E3-106,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-107,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-108,Learnova Exam 3,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E3-109,Learnova Exam 3,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E3-110,Learnova Exam 3,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-1,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-2,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-3,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-4,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-5,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-6,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-7,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-8,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-9,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-10,Learnova Exam 4,C,C,True,False,True,False,C,publisher-answer-key-image-choices,
+E4-11,Learnova Exam 4,D,D,True,False,True,False,D,publisher-answer-key-image-choices,
+E4-12,Learnova Exam 4,A,A,True,False,True,False,A,publisher-answer-key-image-choices,
+E4-13,Learnova Exam 4,B,B,True,False,True,False,B,publisher-answer-key-image-choices,
+E4-14,Learnova Exam 4,B,B,True,False,True,False,B,publisher-answer-key-image-choices,
+E4-15,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-16,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-17,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-18,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-19,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-20,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-21,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-22,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-23,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-24,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-25,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-26,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-27,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-28,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-29,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-30,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-31,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-32,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-33,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-34,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-35,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-36,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-37,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-38,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-39,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-40,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-41,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-42,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-43,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-44,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-45,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-46,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-47,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-48,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-49,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-50,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-51,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-52,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-53,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-54,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-55,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-56,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-57,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-58,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-59,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-60,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-61,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-62,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-63,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-64,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-65,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-66,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-67,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-68,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-69,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-70,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-71,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-72,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-73,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-74,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-75,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-76,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-77,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-78,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-79,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-80,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-81,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-82,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-83,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-84,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-85,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-86,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-87,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-88,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-89,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-90,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-91,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-92,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-93,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-94,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-95,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-96,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-97,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-98,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-99,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-100,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-101,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-102,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-103,Learnova Exam 4,C,C,True,True,True,False,C,publisher-answer-key-image-choices,
+E4-104,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-105,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-106,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-107,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
+E4-108,Learnova Exam 4,B,B,True,True,True,False,B,publisher-answer-key-image-choices,
+E4-109,Learnova Exam 4,D,D,True,True,True,False,D,publisher-answer-key-image-choices,
+E4-110,Learnova Exam 4,A,A,True,True,True,False,A,publisher-answer-key-image-choices,
